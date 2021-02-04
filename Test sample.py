@@ -59,7 +59,7 @@ print(u)
 
 
 
-# get the historical quote of tesla from yahoo finance
+# get the historical quotes of tesla from yahoo finance
 page = requests.get("https://finance.yahoo.com/quote/TSLA/history?p=TSLA")
 soup = BeautifulSoup(page.text, 'html.parser')
 data = soup.find_all("tbody")
