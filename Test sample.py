@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import pandas as pd
+# get the title of the website
 url = "https://finance.yahoo.com"
 reqs = requests.get(url)
 soup = BeautifulSoup(reqs.text,"html.parser")
@@ -9,11 +10,13 @@ print("The title of the website is: ")
 for title in soup.find_all('title'):
     print(title.get_text())
 
+# get the title of the website
 page = requests.get("https://finance.yahoo.com/quote/TSLA/history?p=TSLA")
 soup = BeautifulSoup(page.content,"html.parser")
 c = soup.find_all('title')
 print(c)
 
+# get the day quote of tesla from yahoo finance
 page = requests.get("https://finance.yahoo.com/quote/TSLA?p=TSLA")
 soup = BeautifulSoup(page.text, 'html.parser')
 data = soup.find_all("tbody")
@@ -56,7 +59,7 @@ print(u)
 
 
 
-
+# get the historical quotes of tesla from yahoo finance
 page = requests.get("https://finance.yahoo.com/quote/TSLA/history?p=TSLA")
 soup = BeautifulSoup(page.text, 'html.parser')
 data = soup.find_all("tbody")
