@@ -1,0 +1,208 @@
+Content
+
+
+11th Annual Las Vegas Anti-Money Laundering Conference and Expo
+Las Vegas, Nevada
+August 14, 2018
+
+
+
+Kenneth A. Blanco
+Director
+Financial Crimes Enforcement Network (FinCEN)
+Prepared Remarks
+11th Annual Las Vegas Anti-Money Laundering Conference and Expo
+August 14, 2018
+Thank you for that wonderful introduction, Jim. 
+Good morning.
+I am delighted to be here today to address the 11th Annual Las Vegas Anti-Money Laundering Conference. 
+Thank you for having me.
+Thank you so much, Mindy, for inviting FinCEN to be a part of this event. 
+Let me first say that all of you play an important role in keeping our country strong and prosperous, our financial system secure, and our communities and families safe from harm. 
+Over the years, whether in my role as the Acting Assistant Attorney General or as Deputy Assistant Attorney General for the Department of Justice, or during my time as an Assistant United States Attorney in Miami, I have had the opportunity to work with casinos. 
+So I am well aware of your capabilities and your state-of-the-art systems for surveillance, security, and investigations of all kinds, including fraud and money laundering.
+Now as the Director of the Financial Crimes Enforcement Network (FinCEN), I look forward to learning even more from you about how casinos are meeting their responsibilities in the anti-money laundering/counter-terrorist financing (AML/CFT) realm.
+One thing I would like to say before I begin, that I think is important, at least for me, is that when I take the time to make a speech or presentation, I want to make sure I have something meaningful or important to say, and that I am clear about what it is that I am saying.
+So I have come here today for a purpose.
+Today, I want to share with you my initial observations on what I have learned in my time as Director so far and where I think we should be headed together. 
+These observations are informed by my time at FinCEN, my work with FinCEN over the years, and my 29 years of prosecutorial and trial experience in criminal, national security, and civil law matters.
+I believe casinos are good and important partners that have made significant progress in recent years with respect to AML/CFT.
+And, for that, I want to thank you all.
+There are, of course, as in most industries, areas for improvement. 
+So today, I would like to mention four areas that I think are important:
+First:  Understanding the value of Bank Secrecy Act (BSA) data;
+Second:  Utilizing information to ensure compliance with our requirements;
+Third:  Increasing information sharing through the 314(b) program; and
+Fourth:  Cybersecurity and Emerging Payments.
+ 
+I. The Value of BSA Data
+The first matter I want to cover today is the importance of the BSA information we receive at FinCEN.
+What do we do with it?
+Well, we do a lot.
+FinCEN is able to do important things with the data that casinos and other financial institutions provide every day.  Together, financial institutions and FinCEN play a critical role in keeping our country strong and prosperous, our financial system secure, and our communities and families safe from harm.
+As a firsthand user of BSA information for many years, I can tell you that the information is critical, and now that I can see it from the FinCEN perch, I can tell you that the information is priceless.
+As many of you know, BSA data is one of the first lines of defense in our fight against all kinds of crime and bad acts, including terrorism.
+I want to share with you briefly how BSA information is used.
+Nearly 500 federal, state, and local law enforcement and regulatory agencies have access to FinCEN’s database of BSA records.  And within these agencies, there are an estimated 11,000 active users of BSA data.
+This includes 149 SAR Review Teams located all around the country, covering all 94 federal judicial districts—including one in each state, DC, and Puerto Rico. 
+Law enforcement, regulatory users, and FinCEN analysts have made over 10 million queries of the BSA database over the past five years.
+SARs and CTRs are vital for law enforcement investigations and regulatory matters and and are used to map key national security threats.
+Over 20 percent of FBI investigations utilize BSA data, and for some types of crime, including organized crime, that number is nearly 60 percent.  
+FinCEN receives nearly 1,900 SARs related to terrorist financing each year.  Keep in mind that those SARs are only the ones that the financial institutions filing the reports have identified as potentially relating to terrorism; we then take those and connect them to other SARs and other BSA information, which can generate further leads.
+To me, these numbers are indicative of the vigilance of our nation’s financial institutions in keeping our nation, our communities, and our families safe. 
+Another important fact to mention is that out of 97 recent domestic terrorism cases reviewed by FinCEN, 25 of them—over a quarter —had BSA reporting prior to a person’s arrest. 
+Simply put, BSA information:
+1) provides leads;
+2) helps expand cases and puts together pieces of the puzzle or networks we would not see otherwise; and
+3) helps alert us to trends in illicit activity so that we can get ahead of them, deter the activity, or prevent the harm from spreading.
+In May, FinCEN honored a number of law enforcement professionals from around the country who have used BSA data to successfully investigate and prosecute criminal cases that posed a threat to our financial system and our national security.
+In reviewing the cases, which you can do on FinCEN’s website, you will see that the BSA reporting for these cases aided investigations tied to weapons trafficking, bulk cash smuggling, gang activity, significant fraud, transnational organized crime, bribery, corruption, embezzlement, narcotics, and third-party money laundering.
+Today, I would like to discuss two of these cases. 
+The first case was recognized in the Significant Fraud category.  The investigation, undertaken by Immigration and Customs Enforcement, Homeland Security Investigations (HSI), identified a complex money laundering conspiracy in which India-based call center operators and U.S.-based facilitators worked together to launder $300 million (stolen from over 17,000 victims) through the U.S. banking system and an international hawala network. 
+The investigation was triggered by complaints received from victims of fraud who received phone calls from illicit actors impersonating government officials.
+These individuals extorted payments by threatening arrest and deportation of the victims.
+According to the indictment, one of the call centers extorted $12,300 from an 85-year-old victim from San Diego, California, after threatening her with arrest if she did not pay fictitious tax violations.  On the same day that she was extorted, one of the U.S.-based defendants allegedly used a reloadable debit card funded with the victim’s money to purchase money orders in Frisco, Texas.
+Another victim was extorted of $136,000 over a period of 20 days by conspirators purporting to be IRS agents demanding payment for alleged tax violations.  The victim was then directed to purchase 276 stored value cards, which were transferred to reloadable debit cards.  Some of the victim’s money ended up on cards, which were activated using stolen personal identifying information from U.S.-based victims. 
+Other victims would be offered short-term loans or be advised they were eligible for grants.  The conspirators would then request a good-faith deposit to show the victims’ ability to pay back the loan, or a fee to process the grant. 
+The victims of the alleged scam never received any money after making the requested payment.  
+HSI investigators and attorneys from several federal, state, and local law enforcement agencies poured through massive amounts of financial data, including information from a casino, to help identify previously undiscovered accounts and transactions.
+Investigators named 56 individuals in the United States and India, as well as five India-based call centers.  Twenty-four subjects in the United States were arrested across eight states, all of whom were convicted of conspiracy, money laundering, and various fraud crimes.
+Another case that involved reporting by casinos was the recipient of a Director’s Award in the Third-Party Money Laundering category.  The investigation, led by the Internal Revenue Service – Criminal Investigation (IRS-CI), was a multi-agency effort which included HSI, the Federal Bureau of Investigation (FBI), and the Drug Enforcement Administration (DEA) all working together to combat Mexican kleptocracy involving senior Mexican political figures and the illicit use of the U.S. financial system to launder bribe payments received from Mexican drug cartels. 
+This case underscores that the United States will not be a safe haven for corrupt politicians seeking to hide and profit from their ill-gotten gains or money they have stolen from their people while the citizens of their countries suffer.
+Financial data, including multiple BSA records filed by two separate casinos, played a critical role in this investigation by initially bringing the criminal activity to the attention of investigators and identifying numerous co-conspirators and previously undiscovered accounts and transactions from Mexico to the United States.
+Investigators from the various law enforcement agencies used financial data to trace the illicit funds’ movement.  Investigators also utilized numerous FinCEN resources, which were critical in identifying transactions and accounts belonging to the subjects of the investigation.
+As a result of this investigation, assets totaling over $80 million have been seized, including residential and commercial real estate, financial accounts, currency, gold coins, jewelry, vehicles, and aircraft. 
+The subjects of this investigation have been charged with various financial crimes, including money laundering, bank fraud, wire fraud, operating unlicensed money services businesses (MSBs), loan fraud, racketeering, and others. 
+Several of the targets have pled guilty and are awaiting sentencing, while others are awaiting extradition or remain fugitives.
+BSA reports filed by casinos ultimately played a role in a case involving an international fraud network and a kleptocracy investigation. 
+The reports your casinos file matter.  They are valuable.  They make a difference. 
+I also want to note that while BSA data may not assist with specific investigations, that does not mean that it is any less valuable.  FinCEN and law enforcement officials regularly analyze and work with the data to connect networks, to understand trends and typologies, and to develop red flags which assist financial institutions and law enforcement. 
+When we combine this data with open source data and information from law enforcement, we can see so much more.  We can map out connections that we would not otherwise see or even know about.  These networks would otherwise remain in the shadows.
+Although we are getting better at this every day, we believe we can do much more. 
+Part of getting better and doing more includes providing financial institutions better and more consistent feedback on how we use BSA data, so they understand our priorities and how to use their resources more efficiently and in a more targeted and focused manner.
+The cases I just mentioned are two examples.  But allow me to share another, where reporting by a casino in Argentina helped piece together an investigation into a transnational criminal organization linked to Hezbollah and its global terror network. 
+First, some background.  In addition to being a regulator, FinCEN also serves as the financial intelligence unit (FIU) for the United States.  An FIU is a central, national authority that receives, analyzes, and disseminates information (financial intelligence) to combat money laundering, related offenses, and the financing of terrorism. 
+FIUs engage with other government entities and foreign counterparts to help protect the financial system from illicit activity. 
+By sharing their financial intelligence with other government agencies and foreign counterparts, FIUs facilitate the detection, investigation, and prosecution of financial crime and other crimes and national security threats, including terrorism, as well as the freezing, seizing, and confiscation of illicit assets and the assets used for or in the commission of these bad acts.
+Last month, following an information exchange between FinCEN and Argentina’s FIU—the Unidad de Informaciὀn Financiera de la República Argentina (UIF-AR)—Argentina took decisive action to freeze assets belonging to a transnational criminal organization linked to Hezbollah and its global terror network.  
+Clan Barakat is a criminal organization led by Assad Ahmad Barakat, who is tied to Hezbollah leadership, and has long been known to operate in the Tri-Border area between Argentina, Paraguay, and Brazil. 
+Assad Ahmad Barakat has been listed as a Specially Designated Global Terrorist by Treasury’s Office of Foreign Assets Control. 
+Clan Barakat is infamous for its suspected involvement in smuggling, counterfeiting, extortion, drug trafficking, arms trafficking, money laundering, and terrorist financing. 
+One of the conduits for these Hezbollah money launderers was a casino in the Tri-Border area of Argentina, so it is clear that casinos are on the forefront of valuable information that FIUs need for both their strategic and operational work.
+ 
+II.  Utilizing Information to Ensure Compliance with Our Requirements
+This discussion of the value of casino reporting leads nicely into the next topic I would like to cover today. 
+It is critical that casinos utilize the information they have on an enterprise-wide basis and ensure it gets into the hands of the right people in your compliance departments. 
+I know this is an issue you have heard FinCEN discuss at this conference in the past, but it bears repeating. 
+For instance, we know the kind of significant information that casinos are able to develop on gaming customers.  This information is extraordinary and relevant, and is already used by casinos for a variety of marketing and other business purposes.
+But this information can and should be used by your compliance personnel as they monitor customers for suspicious activity. 
+Information developed by your security departments for combating and preventing fraud should also be shared with compliance personnel.
+The legal department should also alert the compliance department when a subpoena is received.  A subpoena could trigger reviews of customer risk ratings and account activity.
+Moreover, larger casinos may have multiple affiliated casinos that could benefit from the sharing of information across the organization. 
+To facilitate the sharing of information across components of a gaming enterprise, FinCEN issued guidance in January 2017 clearly stating that under the BSA and its implementing regulations, a casino that has filed a SAR may share the SAR, or any information that would reveal the existence of the SAR, with each office or other place of business located within the United States of either the casino itself or a parent or affiliate of the casino. 
+And there are some lessons to be learned from recent enforcement actions taken by FinCEN. 
+I highlight enforcement cases because they illustrate that whether you are a casino, depository institution, or a virtual currency business, the safeguards your businesses put in place and the information you report about terrorist financiers, money launderers, and cyber criminals helps prevent these actors from abusing our financial system.
+A robust enforcement program helps protect against vulnerability.
+For example, in May 2018, FinCEN settled its penalty action against Artichoke Joe’s Casino. 
+The settlement included a $5 million civil penalty with an additional $3 million suspended pending the completion of several remedial undertakings for willful violations of the BSA that occurred over an eight-year period. 
+FinCEN’s investigation identified several troublesome failures. 
+First, we learned employees—including senior managers —observed loan sharking and other illicit activity taking place on the gaming floor.  The activity was not reported. 
+Second, there was a failure to address risks associated with some of the gaming practices offered by Artichoke Joe’s.Artichoke Joe’s offered a practice called “backline betting,” which enabled players who were not at the gaming table to bet on activity at the table.Artichoke Joe’s had no procedures in place to identify participants in backline betting.This occurred despite the fact that FinCEN had previously issued guidance that addressed backline betting.
+Third, Artichoke Joe’s made use of propositional players (players paid by the gaming establishment to wager at a game) to generate interest in games.Artichoke Joe’s had no procedures for obtaining and utilizing information from propositional players who may have observed suspicious transactions.Again, this is an area where FinCEN had previously provided guidance.
+Finally, another lesson learned from the Artichoke Joe’s case is the importance of ensuring that gaming establishments address some of the “basic” requirements outlined in the regulations.
+For years, Artichoke Joe’s operated under a written compliance program riddled with blank passages or placeholder language.It was never completed.
+Artichoke Joe’s conducted its first independent test in August 2011, following the execution of search warrants and arrests by state and federal officials.
+Neglecting fundamental issues such as the need for independent testing heightens the risk that your gaming establishment will be exploited by criminal actors.
+On a positive note, this case also illustrates how FinCEN works collaboratively with its many different partners.  FinCEN’s assessment was based on information provided by law enforcement, as well as its delegated casino and card club examiner, the IRS.  FinCEN receives valuable information from its state partners, including the California Bureau of Gambling Control. 
+I am pleased that representatives from our Enforcement Division, including the head of the division, Tom Ott, and FinCEN Compliance and Enforcement Officer, Kevin O’Connor, will be sharing some of their AML/CFT observations that impact compliance with you later today. 
+While enforcement actions certainly serve as a tool from which we can learn and use to combat illicit finance, it is frequently the people working these cases and conducting the examinations that can help identify trends across the industry before they become widespread.
+ 
+III.  Increasing Information Sharing through the 314(b) Program
+For my third point today, I would now like to turn to the need for information sharing across financial institutions through the voluntary 314(b) program.
+Just like other FinCEN-regulated financial institutions, casinos have the ability to share information with one another and with other regulated financial institutions, such as banks, under Section 314(b) of the USA PATRIOT Act
+Information may be shared for the purpose of identifying activities that the casino suspects may involve money laundering or terrorist financing.  The activities could involve proceeds from one or more specified unlawful activities (SUAs).
+Information sharing under 314(b) can be useful in a variety of ways.
+It may be particularly useful in helping casinos gain a better understanding of their customers’ sources of funds.As we have noted on multiple occasions, information on source of funds is critical to ensuring compliance with your SAR filing obligations.
+For example, if you have a large foreign clientele, sharing information with other institutions can help you address and report concerns related to foreign corruption.
+Given the clear and significant value of this information sharing, I am concerned that the number of 314(b) registrations for casinos has decreased since last year.
+At one point, there were over 200 casinos registered to share information, but today that number stands at 183.And with over 6,400 financial institutions participating in the 314(b) program, this means casinos make up only 2% of registrants.
+This trend is surprising to me.
+This is an area that we want to work with you on, to make sure that we communicate clearly the benefits and importance of the 314(b) program so that all of you can better understand its importance.
+Registrations must be renewed every year, so those that were not renewed may account for some of this drop-off, but if your registration has lapsed, I strongly encourage you to return to being an active participant in the 314(b) program.
+Email reminders are sent to financial institutions, and re-registration has been streamlined to expedite the process.
+The program is voluntary, but FinCEN strongly encourages all financial institutions, including casinos, to participate.
+Remember that participation means you are able to share with other financial institutions —not just other casinos and card clubs. 
+Allow me to provide an example.In this case, the casino was the recipient of a 314(b) request from another financial institution.The casino conducted its own review of activity and identified a discrepancy between activity at the cage and gaming activity.
+The casino determined that large amounts of cash were inserted into slot machines, minimal gaming was conducted, and tickets were cashed out —a scenario that could indicate money laundering.  This information was shared with the requesting financial institution. 
+This is how 314(b) should work.It is a two-way street, and both financial institutions benefit, as does law enforcement.
+If your casino has made a conscious choice not to take advantage of information sharing through the 314(b) program, I would like to know why.
+If you have questions or concerns regarding the 314(b) program, please share them with FinCEN. FinCEN’s website has details on how to take advantage of this program and the benefits of doing so, and our resource center is always available to help you through the process.
+ 
+IV.  Cybersecurity and Emerging Payments
+Finally, the fourth area I would like to just touch on before I conclude this morning is emerging technology and the potential impact on your industry.
+Having read the agenda for this event, I know this will be a focus for several panels this week, but one of the advantages of being first is that I have the opportunity to help shape the narrative.
+It is important to remember that criminals are always trying to circumvent our efforts to keep our financial system safe.
+Today, that means we need to focus on how we adapt to new challenges in technology.
+I mention this to underscore a point I made earlier, and one we made in issuing our cybersecurity advisory in 2016:
+Information sharing within your organization remains an important tool to understanding challenges you may be facing in cybersecurity.These challenges can frequently be issues that may not seem related to your obligations at first glance. By sharing knowledge within your organization, you truly will be using “all available information” to improve your reporting.
+One area we have seen garner more attention is in the virtual currency space.
+Just last week I gave a speech and sat for a question and answer fireside chat in Chicago focusing on our efforts in this area and explaining some of the illicit finance challenges we see this technology present.
+I will not go too much into the specifics here, as I see that you will also be discussing this with some of my staff this week, but I do want to touch on the matter.
+I mention this because we must constantly be looking to the future and seeing how these new technologies impact and are integrated with our financial institutions, including casinos and card clubs.
+Remember that you need to understand the products and services you offer and mitigate the risk associated with them, as appropriate.
+Whether you are integrating virtual currencies into your casino or just creating a new platform to deal with sports betting after the Supreme Court decision, let us make sure that we do so in a responsible manner that is mindful of your obligations under the BSA.
+New technology or new innovative areas do not absolve you of your AML/CFT responsibilities; indeed, you must always ask yourself how you will meet these important responsiblities.
+ 
+Concluding remarks
+As I conclude my remarks for today, I want to make clear: 
+The four areas I covered today are critically important to FinCEN: the value of BSA information; utilizing information to ensure compliance with BSA requirements; increasing information sharing through the 314(b) program; and cybersecurity and emerging payments. 
+I am eager to learn more about all of you and the dynamic industry in which you work.
+FinCEN wants to partner with you and identify ways in which we can work better together.
+As criminal activity changes and technology advances, we at FinCEN stand ready to address these new threats to our financial system, to the security of our nation, and to the safety of our communities and families.
+I am encouraged by the productive discussions FinCEN and the gaming industry have engaged in over the past several years.  Events such as this one are important.
+I would be interested in hearing your thoughts on how we can broaden our reach. 
+Thank you for being such active partners in helping safeguard our financial system and communities. 
+Thank you for listening to me today and have a wonderful rest of the day.
+###
+
+
+
+Content
+
+
+
+Contact
+Steve Hudak 703-905-3770
+
+
+Immediate Release
+November 17, 2017
+
+
+Artichoke Joe’s Casino Turned a Blind Eye to Loan Sharking, Suspicious High-Value Chip Transfers, and Flagrant Criminal Activity for Years
+
+
+WASHINGTON—The Financial Crimes Enforcement Network (FinCEN) today announced an $8 million civil money penalty against Artichoke Joe’s, a California corporation, doing business as Artichoke Joe’s Casino (AJC). AJC, one of the largest card clubs in California, willfully violated U.S. anti-money laundering (AML) laws from October 2009 to November 2017. During this 8-year period, AJC failed to implement and maintain an effective AML program, and failed to detect, deter, and timely report many suspicious transactions.
+ 
+“For years, Artichoke Joe’s turned a blind eye to loan sharking, suspicious transfers of high-value gaming chips, and flagrant criminal activity that occurred in plain sight.  FinCEN’s $8 million civil penalty results from the card club’s failure to establish adequate internal controls and its willful violations of the Bank Secrecy Act,” said Jamal El-Hindi, Acting Director of FinCEN. “Casinos, card clubs and others in the gaming industry should consider their risk of exploitation by criminal elements, and understand that they will be held accountable if they disregard anti-money laundering and illicit finance laws.  This significant action highlights the need for all entities, including those in the gaming industry, to build a robust culture of compliance into their policies and procedures to ensure they are not facilitating illicit activities.”
+ 
+AJC, a card club located in San Bruno, California, has been in operation since 1916. In March 2011, AJC was the subject of a raid by state and Federal law enforcement which led to the racketeering indictment and conviction of two AJC customers for loan-sharking and other illicit activities conducted at AJC. AJC senior-level employees knew that loan-sharks were conducting criminal activity through the card club and using AJC gaming chips to facilitate illegal transactions. Nonetheless, AJC failed to file any Suspicious Activity Reports (SARs) on this activity. For example, there were several instances in which loan-sharks provided AJC chips to customers on the gaming floor within plain sight of AJC employees.
+ 
+AJC also failed to implement adequate internal controls, which exposed the card club to a heightened risk of money laundering and other criminal activity.  In particular, AJC failed to adopt adequate policies and procedures to address risks associated with gaming practices that allow customers to pool or co-mingle their bets with relative anonymity. Further, AJC did not establish procedures for obtaining and incorporating information from propositional players (players paid by casinos or card clubs to wager at a game) or other employees who may have observed suspicious transactions. AJC also failed to file complete and timely reports on suspicious transactions involving potentially structured chip redemptions and purchases, and redemptions of large volumes of chips with no cash-in or gaming activity. FinCEN’s Assessment of $8 million recognizes the duration and severity of AJC’s violations, the size and sophistication of the card club, AJC’s awareness of criminal activity on its premises, and its deficient culture of compliance.
+ 
+Acting Director El-Hindi expressed his appreciation to the Internal Revenue Service Small Business/Self-Employed Division, the Federal Bureau of Investigation, the State of California Department of Justice’s Bureau of Gambling Control, and the U.S. Attorney’s Office for the Northern District of California for their support and strong partnerships with FinCEN. This is the third enforcement action against a card club for FinCEN, the only Federal regulator with AML enforcement authority over card clubs.
+ 
+###
+ 
+FinCEN’s mission is to safeguard the financial system from illicit use and combat money laundering and promote national security through the collection, analysis, and dissemination of financial intelligence and strategic use of financial authorities.
+ 
+UPDATED, 5/3/18:  FinCEN has settled and issued a new Assessment against Artichoke Joe’s Casino (AJC) and rescinded its prior Assessment of Civil Money Penalty (2017-05), dated November 15, 2017, in which FinCEN imposed on AJC a civil money penalty of $8,000,000. FinCEN’s Assessment issued May 3, 2018 imposes a penalty in the amount of $8,000,000, with $3,000,000 suspended pending compliance with the Undertakings set forth in Section IV of the Assessment. (See FinCEN’s Enforcement Action Number 2018-02.)
+
+
+Financial Institution
+
+Casinos
+
+
+
+
