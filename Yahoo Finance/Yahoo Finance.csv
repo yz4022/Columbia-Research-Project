@@ -1,0 +1,954 @@
+Symbol,Company,Month,EPS_Estimate,Reported_EPS,Surprise (%),Sign,Expectation,Performance
+BAC,Bank of America Corp,2021/10/14,0,0,0,None,None,NA
+BAC,Bank of America Corp,2021/9/14,0,0,0,None,None,NA
+BAC,Bank of America Corp,2021/8/15,0,0,0,None,None,NA
+BAC,Bank of America Corp,2021/7/14,0,0,0,None,None,NA
+BAC,Bank of America Corp,2021/6/14,0.2,0,0,None,None,NA
+BAC,Bank of America Corp,2021/5/15,0.4,0,0,None,None,NA
+BAC,Bank of America Corp,2021/4/15,0.6,0,0,None,None,NA
+BAC,Bank of America Corp,2021/3/16,0.583,0.197,2.62,positive,Pos_Average,OutP
+BAC,Bank of America Corp,2021/2/14,0.567,0.393,5.24,positive,Above_Average,OutP
+BAC,Bank of America Corp,2021/1/19,0.55,0.59,7.86,positive,Above_Average,OutP
+BAC,Bank of America Corp,2020/12/20,0.53,0.563,6.39,positive,Above_Average,OutP
+BAC,Bank of America Corp,2020/11/20,0.51,0.537,4.92,positive,Pos_Average,OutP
+BAC,Bank of America Corp,2020/10/14,0.49,0.51,3.45,positive,Pos_Average,OutP
+BAC,Bank of America Corp,2020/9/14,0.417,0.463,15.16,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2020/8/15,0.343,0.417,26.87,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2020/7/16,0.27,0.37,38.58,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2020/6/16,0.333,0.38,21.31,positive,Significantly_Above,regular
+BAC,Bank of America Corp,2020/5/17,0.397,0.39,4.04,positive,Pos_Average,regular
+BAC,Bank of America Corp,2020/4/15,0.46,0.4,-13.23,negative,Significantly_Below,regular
+BAC,Bank of America Corp,2020/3/16,0.533,0.513,-6.09,negative,Below_Average,regular
+BAC,Bank of America Corp,2020/2/15,0.607,0.627,1.05,positive,Pos_Average,OutP
+BAC,Bank of America Corp,2020/1/15,0.68,0.74,8.19,positive,Above_Average,OutP
+BAC,Bank of America Corp,2019/12/16,0.623,0.68,9.017,positive,Above_Average,OutP
+BAC,Bank of America Corp,2019/11/16,0.567,0.62,9.843,positive,Above_Average,OutP
+BAC,Bank of America Corp,2019/10/16,0.51,0.56,10.67,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2019/9/16,0.577,0.62,8.67,positive,Above_Average,OutP
+BAC,Bank of America Corp,2019/8/17,0.643,0.68,6.67,positive,Above_Average,OutP
+BAC,Bank of America Corp,2019/7/17,0.71,0.74,4.67,positive,Pos_Average,OutP
+BAC,Bank of America Corp,2019/6/17,0.693,0.727,5.403,positive,Above_Average,OutP
+BAC,Bank of America Corp,2019/5/18,0.677,0.713,6.137,positive,Above_Average,OutP
+BAC,Bank of America Corp,2019/4/16,0.66,0.7,6.87,positive,Above_Average,OutP
+BAC,Bank of America Corp,2019/3/17,0.65,0.7,8.227,positive,Above_Average,OutP
+BAC,Bank of America Corp,2019/2/15,0.64,0.7,9.583,positive,Above_Average,OutP
+BAC,Bank of America Corp,2019/1/16,0.63,0.7,10.94,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2018/12/17,0.627,0.687,9.443,positive,Above_Average,OutP
+BAC,Bank of America Corp,2018/11/17,0.623,0.673,7.947,positive,Above_Average,OutP
+BAC,Bank of America Corp,2018/10/15,0.62,0.66,6.45,positive,Above_Average,OutP
+BAC,Bank of America Corp,2018/9/15,0.603,0.65,7.81,positive,Above_Average,OutP
+BAC,Bank of America Corp,2018/8/16,0.587,0.64,9.17,positive,Above_Average,OutP
+BAC,Bank of America Corp,2018/7/16,0.57,0.63,10.53,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2018/6/16,0.577,0.627,8.597,positive,Above_Average,OutP
+BAC,Bank of America Corp,2018/5/17,0.583,0.623,6.663,positive,Above_Average,OutP
+BAC,Bank of America Corp,2018/4/16,0.59,0.62,4.73,positive,Pos_Average,OutP
+BAC,Bank of America Corp,2018/3/17,0.54,0.573,6.35,positive,Above_Average,OutP
+BAC,Bank of America Corp,2018/2/15,0.49,0.527,7.97,positive,Above_Average,OutP
+BAC,Bank of America Corp,2018/1/17,0.44,0.48,9.59,positive,Above_Average,OutP
+BAC,Bank of America Corp,2017/12/18,0.443,0.48,8.303,positive,Above_Average,OutP
+BAC,Bank of America Corp,2017/11/18,0.447,0.48,7.017,positive,Above_Average,OutP
+BAC,Bank of America Corp,2017/10/13,0.45,0.48,5.73,positive,Above_Average,OutP
+BAC,Bank of America Corp,2017/9/13,0.443,0.473,6.23,positive,Above_Average,OutP
+BAC,Bank of America Corp,2017/8/14,0.437,0.467,6.73,positive,Above_Average,OutP
+BAC,Bank of America Corp,2017/7/18,0.43,0.46,7.23,positive,Above_Average,OutP
+BAC,Bank of America Corp,2017/6/18,0.403,0.443,10.873,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2017/5/19,0.377,0.427,14.517,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2017/4/18,0.35,0.41,18.16,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2017/3/19,0.36,0.407,14.233,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2017/2/17,0.37,0.403,10.307,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2017/1/13,0.38,0.4,6.38,positive,Above_Average,OutP
+BAC,Bank of America Corp,2016/12/14,0.367,0.403,11.593,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2016/11/14,0.353,0.407,16.807,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2016/10/17,0.34,0.41,22.02,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2016/9/17,0.337,0.393,18.043,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2016/8/18,0.333,0.377,14.067,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2016/7/18,0.33,0.36,10.09,positive,Significantly_Above,OutP
+BAC,Bank of America Corp,2016/6/18,0.29,0.31,7.54,positive,Above_Average,OutP
+BAC,Bank of America Corp,2016/5/19,0.25,0.26,4.99,positive,Pos_Average,OutP
+BAC,Bank of America Corp,2016/4/14,0.21,0.21,2.44,positive,Pos_Average,OutP
+BAC,Bank of America Corp,2016/3/15,0.227,0.237,4.91,positive,Pos_Average,OutP
+BAC,Bank of America Corp,2016/2/14,0.243,0.263,7.38,positive,Above_Average,regular
+BAC,Bank of America Corp,2016/1/19,0.26,0.29,9.85,positive,Above_Average,regular
+BK,Bank of New York Mellon Corp,2021/10/14,0,0,0,None,None,NA
+BK,Bank of New York Mellon Corp,2021/9/14,0,0,0,None,None,NA
+BK,Bank of New York Mellon Corp,2021/8/15,0,0,0,None,None,NA
+BK,Bank of New York Mellon Corp,2021/7/15,0,0,0,None,None,NA
+BK,Bank of New York Mellon Corp,2021/6/15,0.29,0,0,None,None,NA
+BK,Bank of New York Mellon Corp,2021/5/16,0.58,0,0,None,None,NA
+BK,Bank of New York Mellon Corp,2021/4/16,0.87,0,0,None,None,NA
+BK,Bank of New York Mellon Corp,2021/3/17,0.883,0.32,1.753,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2021/2/15,0.897,0.64,3.507,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2021/1/20,0.91,0.96,5.26,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2020/12/21,0.92,0.967,4.887,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2020/11/21,0.93,0.973,4.513,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2020/10/16,0.94,0.98,4.14,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2020/9/16,0.93,0.99,6.3,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2020/8/17,0.92,1,8.46,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2020/7/15,0.91,1.01,10.62,positive,Significantly_Above,OutP
+BK,Bank of New York Mellon Corp,2020/6/15,0.907,1.023,12.463,positive,Significantly_Above,OutP
+BK,Bank of New York Mellon Corp,2020/5/16,0.903,1.037,14.307,positive,Significantly_Above,OutP
+BK,Bank of New York Mellon Corp,2020/4/16,0.9,1.05,16.15,positive,Significantly_Above,OutP
+BK,Bank of New York Mellon Corp,2020/3/17,0.937,1.037,10.9,positive,Significantly_Above,OutP
+BK,Bank of New York Mellon Corp,2020/2/16,0.973,1.023,5.65,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2020/1/16,1.01,1.01,0.4,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2019/12/17,1.003,1.03,2.887,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2019/11/17,0.997,1.05,5.373,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2019/10/16,0.99,1.07,7.86,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2019/9/16,0.977,1.05,7.42,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2019/8/17,0.963,1.03,6.98,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2019/7/17,0.95,1.01,6.54,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2019/6/17,0.953,0.987,3.733,positive,Pos_Average,regular
+BK,Bank of New York Mellon Corp,2019/5/18,0.957,0.963,0.927,positive,Pos_Average,regular
+BK,Bank of New York Mellon Corp,2019/4/17,0.96,0.94,-1.88,negative,Neg_Average,regular
+BK,Bank of New York Mellon Corp,2019/3/18,0.947,0.957,1.283,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2019/2/16,0.933,0.973,4.447,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2019/1/16,0.92,0.99,7.61,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2018/12/17,0.96,1.013,5.847,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2018/11/17,1,1.037,4.083,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2018/10/18,1.04,1.06,2.32,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2018/9/18,1.033,1.05,1.84,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2018/8/19,1.027,1.04,1.36,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2018/7/19,1.02,1.03,0.88,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2018/6/19,1,1.053,5.37,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2018/5/20,0.98,1.077,9.86,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2018/4/19,0.96,1.1,14.35,positive,Significantly_Above,OutP
+BK,Bank of New York Mellon Corp,2018/3/20,0.943,1.037,9.603,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2018/2/18,0.927,0.973,4.857,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2018/1/18,0.91,0.91,0.11,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2017/12/19,0.913,0.92,0.723,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2017/11/19,0.917,0.93,1.337,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2017/10/19,0.92,0.94,1.95,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2017/9/19,0.893,0.92,2.763,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2017/8/20,0.867,0.9,3.577,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2017/7/20,0.84,0.88,4.39,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2017/6/20,0.827,0.863,4.177,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2017/5/21,0.813,0.847,3.963,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2017/4/20,0.8,0.83,3.75,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2017/3/21,0.79,0.81,2.413,positive,Pos_Average,regular
+BK,Bank of New York Mellon Corp,2017/2/19,0.78,0.79,1.077,positive,Pos_Average,regular
+BK,Bank of New York Mellon Corp,2017/1/19,0.77,0.77,-0.26,negative,Neg_Average,regular
+BK,Bank of New York Mellon Corp,2016/12/20,0.783,0.813,3.577,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2016/11/20,0.797,0.857,7.413,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2016/10/20,0.81,0.9,11.25,positive,Significantly_Above,OutP
+BK,Bank of New York Mellon Corp,2016/9/20,0.79,0.853,7.9,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2016/8/21,0.77,0.807,4.55,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2016/7/21,0.75,0.76,1.2,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2016/6/21,0.727,0.753,3.957,positive,Pos_Average,OutP
+BK,Bank of New York Mellon Corp,2016/5/22,0.703,0.747,6.713,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2016/4/21,0.68,0.74,9.47,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2016/3/22,0.667,0.72,8.677,positive,Above_Average,OutP
+BK,Bank of New York Mellon Corp,2016/2/21,0.653,0.7,7.883,positive,Above_Average,regular
+BK,Bank of New York Mellon Corp,2016/1/21,0.64,0.68,7.09,positive,Above_Average,regular
+CFG,Citizens Financial Group Inc,2022/1/19,0,0,0,None,None,NA
+CFG,Citizens Financial Group Inc,2021/12/20,0,0,0,None,None,NA
+CFG,Citizens Financial Group Inc,2021/11/20,0,0,0,None,None,NA
+CFG,Citizens Financial Group Inc,2021/10/20,0,0,0,None,None,NA
+CFG,Citizens Financial Group Inc,2021/9/20,0,0,0,None,None,NA
+CFG,Citizens Financial Group Inc,2021/8/21,0,0,0,None,None,NA
+CFG,Citizens Financial Group Inc,2021/7/20,0,0,0,None,None,NA
+CFG,Citizens Financial Group Inc,2021/6/20,0.31,0,0,None,None,NA
+CFG,Citizens Financial Group Inc,2021/5/21,0.62,0,0,None,None,NA
+CFG,Citizens Financial Group Inc,2021/4/16,0.93,0,0,None,None,NA
+CFG,Citizens Financial Group Inc,2021/3/17,0.923,0.33,2.89,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2021/2/15,0.917,0.66,5.78,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2021/1/20,0.91,0.99,8.67,positive,Above_Average,regular
+CFG,Citizens Financial Group Inc,2020/12/21,0.853,0.887,3.077,positive,Pos_Average,regular
+CFG,Citizens Financial Group Inc,2020/11/21,0.797,0.783,-2.517,negative,Neg_Average,regular
+CFG,Citizens Financial Group Inc,2020/10/16,0.74,0.68,-8.11,negative,Below_Average,regular
+CFG,Citizens Financial Group Inc,2020/9/16,0.52,0.63,179.367,positive,Significantly_Above,OutP
+CFG,Citizens Financial Group Inc,2020/8/17,0.3,0.58,366.843,positive,Significantly_Above,OutP
+CFG,Citizens Financial Group Inc,2020/7/17,0.08,0.53,554.32,positive,Significantly_Above,OutP
+CFG,Citizens Financial Group Inc,2020/6/17,0.18,0.363,338.88,positive,Significantly_Above,regular
+CFG,Citizens Financial Group Inc,2020/5/18,0.28,0.197,123.44,positive,Significantly_Above,regular
+CFG,Citizens Financial Group Inc,2020/4/17,0.38,0.03,-92,negative,Significantly_Below,UnderP
+CFG,Citizens Financial Group Inc,2020/3/18,0.57,0.347,-60.317,negative,Significantly_Below,regular
+CFG,Citizens Financial Group Inc,2020/2/17,0.76,0.663,-28.633,negative,Significantly_Below,regular
+CFG,Citizens Financial Group Inc,2020/1/17,0.95,0.98,3.05,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/12/18,0.953,0.977,2.277,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/11/18,0.957,0.973,1.503,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/10/18,0.96,0.97,0.73,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/9/18,0.953,0.963,0.877,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/8/19,0.947,0.957,1.023,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/7/19,0.94,0.95,1.17,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/6/19,0.923,0.94,1.943,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/5/20,0.907,0.93,2.717,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/4/18,0.89,0.92,3.49,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/3/19,0.907,0.933,2.927,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/2/17,0.923,0.947,2.363,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2019/1/18,0.94,0.96,1.8,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/12/19,0.927,0.943,1.72,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/11/19,0.913,0.927,1.64,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/10/19,0.9,0.91,1.56,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/9/19,0.883,0.9,2.097,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/8/20,0.867,0.89,2.633,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/7/20,0.85,0.88,3.17,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/6/20,0.82,0.847,3.127,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/5/21,0.79,0.813,3.083,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/4/20,0.76,0.78,3.04,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/3/21,0.73,0.757,3.86,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/2/19,0.7,0.733,4.68,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2018/1/19,0.67,0.71,5.5,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2017/12/20,0.66,0.7,5.693,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2017/11/20,0.65,0.69,5.887,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2017/10/20,0.64,0.68,6.08,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2017/9/20,0.623,0.663,6.193,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2017/8/21,0.607,0.647,6.307,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2017/7/21,0.59,0.63,6.42,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2017/6/21,0.563,0.623,11.13,positive,Significantly_Above,OutP
+CFG,Citizens Financial Group Inc,2017/5/22,0.537,0.617,15.84,positive,Significantly_Above,OutP
+CFG,Citizens Financial Group Inc,2017/4/20,0.51,0.61,20.55,positive,Significantly_Above,OutP
+CFG,Citizens Financial Group Inc,2017/3/21,0.513,0.59,15.557,positive,Significantly_Above,OutP
+CFG,Citizens Financial Group Inc,2017/2/19,0.517,0.57,10.563,positive,Significantly_Above,OutP
+CFG,Citizens Financial Group Inc,2017/1/20,0.52,0.55,5.57,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2016/12/21,0.507,0.553,9.107,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2016/11/21,0.493,0.557,12.643,positive,Significantly_Above,OutP
+CFG,Citizens Financial Group Inc,2016/10/21,0.48,0.56,16.18,positive,Significantly_Above,OutP
+CFG,Citizens Financial Group Inc,2016/9/21,0.467,0.527,12.703,positive,Significantly_Above,OutP
+CFG,Citizens Financial Group Inc,2016/8/22,0.453,0.493,9.227,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2016/7/21,0.44,0.46,5.75,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2016/6/21,0.423,0.443,5.723,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2016/5/22,0.407,0.427,5.697,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2016/4/21,0.39,0.41,5.67,positive,Above_Average,OutP
+CFG,Citizens Financial Group Inc,2016/3/22,0.4,0.413,4.1,positive,Pos_Average,OutP
+CFG,Citizens Financial Group Inc,2016/2/21,0.41,0.417,2.53,positive,Pos_Average,regular
+CFG,Citizens Financial Group Inc,2016/1/22,0.42,0.42,0.96,positive,Pos_Average,regular
+COF,Capital One Financial Corp,2021/10/20,0,0,0,None,None,NA
+COF,Capital One Financial Corp,2021/9/20,0,0,0,None,None,NA
+COF,Capital One Financial Corp,2021/8/21,0,0,0,None,None,NA
+COF,Capital One Financial Corp,2021/7/19,0,0,0,None,None,NA
+COF,Capital One Financial Corp,2021/6/19,1.253,0,0,None,None,NA
+COF,Capital One Financial Corp,2021/5/20,2.507,0,0,None,None,NA
+COF,Capital One Financial Corp,2021/4/21,3.76,0,0,None,None,NA
+COF,Capital One Financial Corp,2021/3/22,3.46,1.783,28.977,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2021/2/20,3.16,3.567,57.953,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2021/1/26,2.86,5.35,86.93,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2020/12/27,2.617,5.253,103.693,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2020/11/27,2.373,5.157,120.457,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2020/10/22,2.13,5.06,137.22,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2020/9/22,0.86,2.637,81.067,positive,Significantly_Above,regular
+COF,Capital One Financial Corp,2020/8/23,-0.41,0.213,24.913,positive,Significantly_Above,regular
+COF,Capital One Financial Corp,2020/7/21,-1.68,-2.21,-31.24,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2020/6/21,-0.947,-2.507,-254.807,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2020/5/22,-0.213,-2.803,-478.373,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2020/4/23,0.52,-3.1,-701.94,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2020/3/24,1.107,-1.317,-468.427,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2020/2/23,1.693,0.467,-234.913,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2020/1/21,2.28,2.25,-1.4,negative,Neg_Average,UnderP
+COF,Capital One Financial Corp,2019/12/22,2.48,2.397,-3.12,negative,Neg_Average,UnderP
+COF,Capital One Financial Corp,2019/11/22,2.68,2.543,-4.84,negative,Neg_Average,UnderP
+COF,Capital One Financial Corp,2019/10/24,2.88,2.69,-6.56,negative,Below_Average,regular
+COF,Capital One Financial Corp,2019/9/24,2.877,2.873,-0.063,negative,Neg_Average,regular
+COF,Capital One Financial Corp,2019/8/25,2.873,3.057,6.433,positive,Above_Average,OutP
+COF,Capital One Financial Corp,2019/7/18,2.87,3.24,12.93,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2019/6/18,2.813,3.113,10.597,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2019/5/19,2.757,2.987,8.263,positive,Above_Average,regular
+COF,Capital One Financial Corp,2019/4/25,2.7,2.86,5.93,positive,Above_Average,regular
+COF,Capital One Financial Corp,2019/3/26,2.59,2.53,-3.113,negative,Neg_Average,UnderP
+COF,Capital One Financial Corp,2019/2/24,2.48,2.2,-12.157,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2019/1/22,2.37,1.87,-21.2,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2018/12/23,2.54,2.243,-12.813,negative,Significantly_Below,regular
+COF,Capital One Financial Corp,2018/11/23,2.71,2.617,-4.427,negative,Neg_Average,regular
+COF,Capital One Financial Corp,2018/10/23,2.88,2.99,3.96,positive,Pos_Average,OutP
+COF,Capital One Financial Corp,2018/9/23,2.797,3.23,16.347,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2018/8/24,2.713,3.47,28.733,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2018/7/19,2.63,3.71,41.12,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2018/6/19,2.527,3.347,31.79,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2018/5/20,2.423,2.983,22.46,positive,Significantly_Above,OutP
+COF,Capital One Financial Corp,2018/4/24,2.32,2.62,13.13,positive,Significantly_Above,regular
+COF,Capital One Financial Corp,2018/3/25,2.173,2.277,3.64,positive,Pos_Average,regular
+COF,Capital One Financial Corp,2018/2/23,2.027,1.933,-5.85,negative,Below_Average,UnderP
+COF,Capital One Financial Corp,2018/1/23,1.88,1.59,-15.34,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2017/12/24,1.97,1.773,-10.337,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2017/11/24,2.06,1.957,-5.333,negative,Below_Average,regular
+COF,Capital One Financial Corp,2017/10/24,2.15,2.14,-0.33,negative,Neg_Average,regular
+COF,Capital One Financial Corp,2017/9/24,2.067,2.073,0.553,positive,Pos_Average,OutP
+COF,Capital One Financial Corp,2017/8/25,1.983,2.007,1.437,positive,Pos_Average,regular
+COF,Capital One Financial Corp,2017/7/20,1.9,1.94,2.32,positive,Pos_Average,regular
+COF,Capital One Financial Corp,2017/6/20,1.907,1.807,-5.08,negative,Below_Average,UnderP
+COF,Capital One Financial Corp,2017/5/21,1.913,1.673,-12.48,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2017/4/25,1.92,1.54,-19.88,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2017/3/26,1.817,1.51,-16.473,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2017/2/24,1.713,1.48,-13.067,negative,Significantly_Below,UnderP
+COF,Capital One Financial Corp,2017/1/24,1.61,1.45,-9.66,negative,Below_Average,UnderP
+COF,Capital One Financial Corp,2016/12/25,1.72,1.6,-7.16,negative,Below_Average,UnderP
+COF,Capital One Financial Corp,2016/11/25,1.83,1.75,-4.66,negative,Neg_Average,UnderP
+COF,Capital One Financial Corp,2016/10/25,1.94,1.9,-2.16,negative,Neg_Average,UnderP
+COF,Capital One Financial Corp,2016/9/25,1.913,1.83,-4.487,negative,Neg_Average,UnderP
+COF,Capital One Financial Corp,2016/8/26,1.887,1.76,-6.813,negative,Below_Average,UnderP
+COF,Capital One Financial Corp,2016/7/21,1.86,1.69,-9.14,negative,Below_Average,UnderP
+COF,Capital One Financial Corp,2016/6/21,1.877,1.74,-7.383,negative,Below_Average,UnderP
+COF,Capital One Financial Corp,2016/5/22,1.893,1.79,-5.627,negative,Below_Average,UnderP
+COF,Capital One Financial Corp,2016/4/26,1.91,1.84,-3.87,negative,Neg_Average,UnderP
+COF,Capital One Financial Corp,2016/3/27,1.81,1.753,-3.283,negative,Neg_Average,UnderP
+COF,Capital One Financial Corp,2016/2/26,1.71,1.667,-2.697,negative,Neg_Average,regular
+COF,Capital One Financial Corp,2016/1/26,1.61,1.58,-2.11,negative,Neg_Average,regular
+DB,Deutsche Bank Aktiengesellschaft,2021/2/4,0.16,0.18,16.13,positive,Significantly_Above,regular
+DB,Deutsche Bank Aktiengesellschaft,2021/1/5,0.103,0.09,-242.58,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2020/12/6,0.047,0,-501.29,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2020/10/28,-0.01,-0.09,-760,negative,Significantly_Below,regular
+DB,Deutsche Bank Aktiengesellschaft,2020/9/28,-0.023,-0.003,-360,negative,Significantly_Below,regular
+DB,Deutsche Bank Aktiengesellschaft,2020/8/29,-0.037,0.083,40,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2020/7/29,-0.05,0.17,440,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2020/6/29,-0.073,0.147,353.333,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2020/5/30,-0.097,0.123,266.667,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2020/4/29,-0.12,0.1,180,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2020/3/30,-0.113,0.017,103.333,positive,Significantly_Above,regular
+DB,Deutsche Bank Aktiengesellschaft,2020/2/29,-0.107,-0.067,26.667,positive,Significantly_Above,regular
+DB,Deutsche Bank Aktiengesellschaft,2020/1/30,-0.1,-0.15,-50,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/12/31,-0.03,-0.15,-112.12,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/12/1,0.04,-0.15,-174.24,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/10/30,0.11,-0.15,-236.36,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/9/30,0.117,-0.063,-162.7,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/8/31,0.123,0.023,-89.04,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/7/24,0.13,0.11,-15.38,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/6/24,0.13,0.107,-19.227,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/5/25,0.13,0.103,-23.073,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/4/26,0.13,0.1,-26.92,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/3/27,0.097,0.033,-162.39,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/2/25,0.063,-0.033,-297.86,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/2/1,0.03,-0.1,-433.33,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2019/1/2,0.14,-0.017,-308.33,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2018/12/3,0.25,0.067,-183.33,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2018/10/24,0.36,0.15,-58.33,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2018/9/24,0.31,0.187,-30.95,negative,Significantly_Below,regular
+DB,Deutsche Bank Aktiengesellschaft,2018/8/25,0.26,0.223,-3.57,negative,Neg_Average,regular
+DB,Deutsche Bank Aktiengesellschaft,2018/7/25,0.21,0.26,23.81,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2018/6/25,0.237,0.277,18.173,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2018/5/26,0.263,0.293,12.537,positive,Significantly_Above,regular
+DB,Deutsche Bank Aktiengesellschaft,2018/4/26,0.29,0.31,6.9,positive,Above_Average,regular
+DB,Deutsche Bank Aktiengesellschaft,2018/3/27,0.21,0.197,-48.733,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2018/2/25,0.13,0.083,-104.367,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2018/2/2,0.05,-0.03,-160,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2018/1/3,0.14,0.103,-100.847,negative,Significantly_Below,regular
+DB,Deutsche Bank Aktiengesellschaft,2017/12/4,0.23,0.237,-41.693,negative,Significantly_Below,regular
+DB,Deutsche Bank Aktiengesellschaft,2017/10/26,0.32,0.37,17.46,positive,Significantly_Above,regular
+DB,Deutsche Bank Aktiengesellschaft,2017/9/26,0.303,0.327,7.937,positive,Above_Average,regular
+DB,Deutsche Bank Aktiengesellschaft,2017/8/27,0.287,0.283,-1.587,negative,Neg_Average,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2017/7/27,0.27,0.24,-11.11,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2017/6/27,0.313,0.287,-9.073,negative,Below_Average,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2017/5/28,0.357,0.333,-7.037,negative,Below_Average,regular
+DB,Deutsche Bank Aktiengesellschaft,2017/4/27,0.4,0.38,-5,negative,Neg_Average,regular
+DB,Deutsche Bank Aktiengesellschaft,2017/3/28,0.26,0.27,113.333,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2017/2/26,0.12,0.16,231.667,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2017/2/2,-0.02,0.05,350,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2017/1/3,0.113,0.197,243.183,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2016/12/4,0.247,0.343,136.367,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2016/10/27,0.38,0.49,29.55,positive,Significantly_Above,OutP
+DB,Deutsche Bank Aktiengesellschaft,2016/9/27,0.387,0.46,19.7,positive,Significantly_Above,regular
+DB,Deutsche Bank Aktiengesellschaft,2016/8/28,0.393,0.43,9.85,positive,Above_Average,regular
+DB,Deutsche Bank Aktiengesellschaft,2016/7/27,0.4,0.4,0,None,None,NA
+DB,Deutsche Bank Aktiengesellschaft,2016/6/27,0.383,0.413,7.933,positive,Above_Average,OutP
+DB,Deutsche Bank Aktiengesellschaft,2016/5/28,0.367,0.427,15.867,positive,Significantly_Above,regular
+DB,Deutsche Bank Aktiengesellschaft,2016/4/28,0.35,0.44,23.8,positive,Significantly_Above,regular
+DB,Deutsche Bank Aktiengesellschaft,2016/3/29,0.543,0.273,-19.7,negative,Significantly_Below,UnderP
+DB,Deutsche Bank Aktiengesellschaft,2016/2/28,0.737,0.107,-63.2,negative,Significantly_Below,regular
+DB,Deutsche Bank Aktiengesellschaft,2016/1/28,0.93,-0.06,-106.7,negative,Significantly_Below,regular
+GS,Goldman Sachs Group Inc,2021/10/12,0,0,0,None,None,NA
+GS,Goldman Sachs Group Inc,2021/9/12,0,0,0,None,None,NA
+GS,Goldman Sachs Group Inc,2021/8/13,0,0,0,None,None,NA
+GS,Goldman Sachs Group Inc,2021/7/13,0,0,0,None,None,NA
+GS,Goldman Sachs Group Inc,2021/6/13,2.573,0,0,None,None,NA
+GS,Goldman Sachs Group Inc,2021/5/14,5.147,0,0,None,None,NA
+GS,Goldman Sachs Group Inc,2021/4/14,7.72,0,0,None,None,NA
+GS,Goldman Sachs Group Inc,2021/3/15,7.637,4.027,20.543,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2021/2/13,7.553,8.053,41.087,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2021/1/19,7.47,12.08,61.63,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2020/12/20,6.837,11.047,61.503,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2020/11/20,6.203,10.013,61.377,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2020/10/14,5.57,8.98,61.25,positive,Significantly_Above,regular
+GS,Goldman Sachs Group Inc,2020/9/14,4.977,6.163,12.167,positive,Significantly_Above,regular
+GS,Goldman Sachs Group Inc,2020/8/15,4.383,3.347,-36.917,negative,Significantly_Below,UnderP
+GS,Goldman Sachs Group Inc,2020/7/15,3.79,0.53,-86,negative,Significantly_Below,UnderP
+GS,Goldman Sachs Group Inc,2020/6/15,3.643,1.39,-59.757,negative,Significantly_Below,UnderP
+GS,Goldman Sachs Group Inc,2020/5/16,3.497,2.25,-33.513,negative,Significantly_Below,UnderP
+GS,Goldman Sachs Group Inc,2020/4/15,3.35,3.11,-7.27,negative,Below_Average,UnderP
+GS,Goldman Sachs Group Inc,2020/3/16,4.057,3.637,-9.58,negative,Below_Average,UnderP
+GS,Goldman Sachs Group Inc,2020/2/15,4.763,4.163,-11.89,negative,Significantly_Below,UnderP
+GS,Goldman Sachs Group Inc,2020/1/15,5.47,4.69,-14.2,negative,Significantly_Below,UnderP
+GS,Goldman Sachs Group Inc,2019/12/16,5.253,4.723,-9.64,negative,Below_Average,UnderP
+GS,Goldman Sachs Group Inc,2019/11/16,5.037,4.757,-5.08,negative,Below_Average,regular
+GS,Goldman Sachs Group Inc,2019/10/15,4.82,4.79,-0.52,negative,Neg_Average,regular
+GS,Goldman Sachs Group Inc,2019/9/15,4.843,5.13,5.91,positive,Above_Average,OutP
+GS,Goldman Sachs Group Inc,2019/8/16,4.867,5.47,12.34,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2019/7/16,4.89,5.81,18.77,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2019/6/16,4.89,5.777,18.133,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2019/5/17,4.89,5.743,17.497,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2019/4/15,4.89,5.71,16.86,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2019/3/16,4.743,5.82,23.13,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2019/2/14,4.597,5.93,29.4,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2019/1/16,4.45,6.04,35.67,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/12/17,4.76,6.12,29.363,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/11/17,5.07,6.2,23.057,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/10/16,5.38,6.28,16.75,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/9/16,5.14,6.18,20.653,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/8/17,4.9,6.08,24.557,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/7/17,4.66,5.98,28.46,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/6/17,4.967,6.303,27.127,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/5/18,5.273,6.627,25.793,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/4/17,5.58,6.95,24.46,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/3/18,5.36,6.527,21.493,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/2/16,5.14,6.103,18.527,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2018/1/17,4.92,5.68,15.56,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2017/12/18,4.67,5.46,17.187,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2017/11/18,4.42,5.24,18.813,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2017/10/17,4.17,5.02,20.44,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2017/9/17,3.91,4.663,19.18,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2017/8/18,3.65,4.307,17.92,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2017/7/18,3.39,3.95,16.66,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2017/6/18,4.03,4.35,10.11,positive,Significantly_Above,regular
+GS,Goldman Sachs Group Inc,2017/5/19,4.67,4.75,3.56,positive,Pos_Average,regular
+GS,Goldman Sachs Group Inc,2017/4/18,5.31,5.15,-2.99,negative,Neg_Average,regular
+GS,Goldman Sachs Group Inc,2017/3/19,5.147,5.127,-0.203,negative,Neg_Average,regular
+GS,Goldman Sachs Group Inc,2017/2/17,4.983,5.103,2.583,positive,Pos_Average,OutP
+GS,Goldman Sachs Group Inc,2017/1/18,4.82,5.08,5.37,positive,Above_Average,OutP
+GS,Goldman Sachs Group Inc,2016/12/19,4.487,5.013,12.82,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2016/11/19,4.153,4.947,20.27,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2016/10/18,3.82,4.88,27.72,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2016/9/18,3.547,4.493,26.507,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2016/8/19,3.273,4.107,25.293,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2016/7/19,3,3.72,24.08,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2016/6/19,2.817,3.373,19.167,positive,Significantly_Above,OutP
+GS,Goldman Sachs Group Inc,2016/5/20,2.633,3.027,14.253,positive,Significantly_Above,regular
+GS,Goldman Sachs Group Inc,2016/4/19,2.45,2.68,9.34,positive,Above_Average,regular
+GS,Goldman Sachs Group Inc,2016/3/20,2.813,2.21,-15.13,negative,Significantly_Below,UnderP
+GS,Goldman Sachs Group Inc,2016/2/19,3.177,1.74,-39.6,negative,Significantly_Below,regular
+GS,Goldman Sachs Group Inc,2016/1/20,3.54,1.27,-64.07,negative,Significantly_Below,regular
+JPM,JPMorgan Chase & Co,2021/10/13,0,0,0,None,None,NA
+JPM,JPMorgan Chase & Co,2021/9/13,0,0,0,None,None,NA
+JPM,JPMorgan Chase & Co,2021/8/14,0,0,0,None,None,NA
+JPM,JPMorgan Chase & Co,2021/7/13,0,0,0,None,None,NA
+JPM,JPMorgan Chase & Co,2021/6/13,0.927,0,0,None,None,NA
+JPM,JPMorgan Chase & Co,2021/5/14,1.853,0,0,None,None,NA
+JPM,JPMorgan Chase & Co,2021/4/14,2.78,0,0,None,None,NA
+JPM,JPMorgan Chase & Co,2021/3/15,2.727,1.263,14.813,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2021/2/13,2.673,2.527,29.627,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2021/1/15,2.62,3.79,44.44,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2020/12/16,2.49,3.5,40.02,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2020/11/16,2.36,3.21,35.6,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2020/10/13,2.23,2.92,31.18,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2020/9/13,1.833,2.407,31.64,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2020/8/14,1.437,1.893,32.1,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2020/7/14,1.04,1.38,32.56,positive,Significantly_Above,regular
+JPM,JPMorgan Chase & Co,2020/6/14,1.307,1.18,2.49,positive,Pos_Average,regular
+JPM,JPMorgan Chase & Co,2020/5/15,1.573,0.98,-27.58,negative,Significantly_Below,UnderP
+JPM,JPMorgan Chase & Co,2020/4/14,1.84,0.78,-57.65,negative,Significantly_Below,UnderP
+JPM,JPMorgan Chase & Co,2020/3/15,2.01,1.377,-35.327,negative,Significantly_Below,regular
+JPM,JPMorgan Chase & Co,2020/2/14,2.18,1.973,-13.003,negative,Significantly_Below,regular
+JPM,JPMorgan Chase & Co,2020/1/14,2.35,2.57,9.32,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2019/12/15,2.383,2.607,9.327,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2019/11/15,2.417,2.643,9.333,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2019/10/15,2.45,2.68,9.34,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2019/9/15,2.467,2.727,10.54,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2019/8/16,2.483,2.773,11.74,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2019/7/16,2.5,2.82,12.94,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2019/6/16,2.45,2.763,12.833,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2019/5/17,2.4,2.707,12.727,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2019/4/12,2.35,2.65,12.62,positive,Significantly_Above,regular
+JPM,JPMorgan Chase & Co,2019/3/13,2.3,2.427,5.08,positive,Above_Average,regular
+JPM,JPMorgan Chase & Co,2019/2/11,2.25,2.203,-2.46,negative,Neg_Average,UnderP
+JPM,JPMorgan Chase & Co,2019/1/15,2.2,1.98,-10,negative,Below_Average,UnderP
+JPM,JPMorgan Chase & Co,2018/12/16,2.217,2.1,-5.363,negative,Below_Average,regular
+JPM,JPMorgan Chase & Co,2018/11/16,2.233,2.22,-0.727,negative,Neg_Average,regular
+JPM,JPMorgan Chase & Co,2018/10/12,2.25,2.34,3.91,positive,Pos_Average,OutP
+JPM,JPMorgan Chase & Co,2018/9/12,2.24,2.323,3.703,positive,Pos_Average,OutP
+JPM,JPMorgan Chase & Co,2018/8/13,2.23,2.307,3.497,positive,Pos_Average,OutP
+JPM,JPMorgan Chase & Co,2018/7/13,2.22,2.29,3.29,positive,Pos_Average,OutP
+JPM,JPMorgan Chase & Co,2018/6/13,2.24,2.317,3.48,positive,Pos_Average,OutP
+JPM,JPMorgan Chase & Co,2018/5/14,2.26,2.343,3.67,positive,Pos_Average,OutP
+JPM,JPMorgan Chase & Co,2018/4/13,2.28,2.37,3.86,positive,Pos_Average,OutP
+JPM,JPMorgan Chase & Co,2018/3/14,2.083,2.167,3.933,positive,Pos_Average,OutP
+JPM,JPMorgan Chase & Co,2018/2/12,1.887,1.963,4.007,positive,Pos_Average,OutP
+JPM,JPMorgan Chase & Co,2018/1/12,1.69,1.76,4.08,positive,Pos_Average,OutP
+JPM,JPMorgan Chase & Co,2017/12/13,1.677,1.76,4.877,positive,Pos_Average,OutP
+JPM,JPMorgan Chase & Co,2017/11/13,1.663,1.76,5.673,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2017/10/12,1.65,1.76,6.47,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2017/9/12,1.627,1.78,9.303,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2017/8/13,1.603,1.8,12.137,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2017/7/14,1.58,1.82,14.97,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2017/6/14,1.56,1.763,12.853,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2017/5/15,1.54,1.707,10.737,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2017/4/13,1.52,1.65,8.62,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2017/3/14,1.493,1.67,12.107,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2017/2/12,1.467,1.69,15.593,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2017/1/13,1.44,1.71,19.08,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2016/12/14,1.423,1.667,17.277,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2016/11/14,1.407,1.623,15.473,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2016/10/14,1.39,1.58,13.67,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2016/9/14,1.403,1.57,11.96,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2016/8/15,1.417,1.56,10.25,positive,Significantly_Above,OutP
+JPM,JPMorgan Chase & Co,2016/7/14,1.43,1.55,8.54,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2016/6/14,1.373,1.483,8.16,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2016/5/15,1.317,1.417,7.78,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2016/4/13,1.26,1.35,7.4,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2016/3/14,1.257,1.34,6.717,positive,Above_Average,OutP
+JPM,JPMorgan Chase & Co,2016/2/13,1.253,1.33,6.033,positive,Above_Average,regular
+JPM,JPMorgan Chase & Co,2016/1/14,1.25,1.32,5.35,positive,Above_Average,regular
+PNC,PNC Financial Services Group Inc,2021/10/15,0,0,0,None,None,NA
+PNC,PNC Financial Services Group Inc,2021/9/15,0,0,0,None,None,NA
+PNC,PNC Financial Services Group Inc,2021/8/16,0,0,0,None,None,NA
+PNC,PNC Financial Services Group Inc,2021/7/14,0,0,0,None,None,NA
+PNC,PNC Financial Services Group Inc,2021/6/14,0.867,0,0,None,None,NA
+PNC,PNC Financial Services Group Inc,2021/5/15,1.733,0,0,None,None,NA
+PNC,PNC Financial Services Group Inc,2021/4/16,2.6,0,0,None,None,NA
+PNC,PNC Financial Services Group Inc,2021/3/17,2.607,1.087,8.223,positive,Above_Average,OutP
+PNC,PNC Financial Services Group Inc,2021/2/15,2.613,2.173,16.447,positive,Significantly_Above,OutP
+PNC,PNC Financial Services Group Inc,2021/1/15,2.62,3.26,24.67,positive,Significantly_Above,OutP
+PNC,PNC Financial Services Group Inc,2020/12/16,2.453,3.303,36.39,positive,Significantly_Above,OutP
+PNC,PNC Financial Services Group Inc,2020/11/16,2.287,3.347,48.11,positive,Significantly_Above,OutP
+PNC,PNC Financial Services Group Inc,2020/10/14,2.12,3.39,59.83,positive,Significantly_Above,OutP
+PNC,PNC Financial Services Group Inc,2020/9/14,1.583,5.06,551.3,positive,Significantly_Above,OutP
+PNC,PNC Financial Services Group Inc,2020/8/15,1.047,6.73,1042.77,positive,Significantly_Above,OutP
+PNC,PNC Financial Services Group Inc,2020/7/15,0.51,8.4,1534.24,positive,Significantly_Above,OutP
+PNC,PNC Financial Services Group Inc,2020/6/15,0.91,6.25,1027.46,positive,Significantly_Above,OutP
+PNC,PNC Financial Services Group Inc,2020/5/16,1.31,4.1,520.68,positive,Significantly_Above,OutP
+PNC,PNC Financial Services Group Inc,2020/4/15,1.71,1.95,13.9,positive,Significantly_Above,OutP
+PNC,PNC Financial Services Group Inc,2020/3/16,2.117,2.29,9.687,positive,Above_Average,OutP
+PNC,PNC Financial Services Group Inc,2020/2/15,2.523,2.63,5.473,positive,Above_Average,OutP
+PNC,PNC Financial Services Group Inc,2020/1/15,2.93,2.97,1.26,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2019/12/16,2.887,2.96,2.47,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2019/11/16,2.843,2.95,3.68,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2019/10/16,2.8,2.94,4.89,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2019/9/16,2.807,2.92,3.947,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2019/8/17,2.813,2.9,3.003,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2019/7/17,2.82,2.88,2.06,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2019/6/17,2.75,2.79,1.4,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2019/5/18,2.68,2.7,0.74,positive,Pos_Average,regular
+PNC,PNC Financial Services Group Inc,2019/4/12,2.61,2.61,0.08,positive,Pos_Average,regular
+PNC,PNC Financial Services Group Inc,2019/3/13,2.67,2.657,-0.367,negative,Neg_Average,UnderP
+PNC,PNC Financial Services Group Inc,2019/2/11,2.73,2.703,-0.813,negative,Neg_Average,regular
+PNC,PNC Financial Services Group Inc,2019/1/16,2.79,2.75,-1.26,negative,Neg_Average,regular
+PNC,PNC Financial Services Group Inc,2018/12/17,2.767,2.773,0.333,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2018/11/17,2.743,2.797,1.927,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2018/10/12,2.72,2.82,3.52,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2018/9/12,2.673,2.787,4.21,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2018/8/13,2.627,2.753,4.9,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2018/7/13,2.58,2.72,5.59,positive,Above_Average,OutP
+PNC,PNC Financial Services Group Inc,2018/6/13,2.53,2.623,3.7,positive,Pos_Average,regular
+PNC,PNC Financial Services Group Inc,2018/5/14,2.48,2.527,1.81,positive,Pos_Average,regular
+PNC,PNC Financial Services Group Inc,2018/4/13,2.43,2.43,-0.08,negative,Neg_Average,regular
+PNC,PNC Financial Services Group Inc,2018/3/14,2.353,2.383,1.373,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2018/2/12,2.277,2.337,2.827,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2018/1/12,2.2,2.29,4.28,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/12/13,2.177,2.247,3.323,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/11/13,2.153,2.203,2.367,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/10/13,2.13,2.16,1.41,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/9/13,2.093,2.14,2.313,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/8/14,2.057,2.12,3.217,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/7/14,2.02,2.1,4.12,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/6/14,1.96,2.053,4.94,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/5/15,1.9,2.007,5.76,positive,Above_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/4/13,1.84,1.96,6.58,positive,Above_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/3/14,1.843,1.963,6.647,positive,Above_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/2/12,1.847,1.967,6.713,positive,Above_Average,OutP
+PNC,PNC Financial Services Group Inc,2017/1/13,1.85,1.97,6.78,positive,Above_Average,OutP
+PNC,PNC Financial Services Group Inc,2016/12/14,1.827,1.927,5.72,positive,Above_Average,OutP
+PNC,PNC Financial Services Group Inc,2016/11/14,1.803,1.883,4.66,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2016/10/14,1.78,1.84,3.6,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2016/9/14,1.77,1.833,3.673,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2016/8/15,1.76,1.827,3.747,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2016/7/15,1.75,1.82,3.82,positive,Pos_Average,OutP
+PNC,PNC Financial Services Group Inc,2016/6/15,1.733,1.773,2.117,positive,Pos_Average,regular
+PNC,PNC Financial Services Group Inc,2016/5/16,1.717,1.727,0.413,positive,Pos_Average,regular
+PNC,PNC Financial Services Group Inc,2016/4/14,1.7,1.68,-1.29,negative,Neg_Average,regular
+SCHW,Charles Schwab Corp,2021/10/13,0,0,0,None,None,NA
+SCHW,Charles Schwab Corp,2021/9/13,0,0,0,None,None,NA
+SCHW,Charles Schwab Corp,2021/8/14,0,0,0,None,None,NA
+SCHW,Charles Schwab Corp,2021/7/14,0,0,0,None,None,NA
+SCHW,Charles Schwab Corp,2021/6/14,0.243,0,0,None,None,NA
+SCHW,Charles Schwab Corp,2021/5/15,0.487,0,0,None,None,NA
+SCHW,Charles Schwab Corp,2021/4/13,0.73,0,0,None,None,NA
+SCHW,Charles Schwab Corp,2021/3/14,0.723,0.247,1.607,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2021/2/12,0.717,0.493,3.213,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2021/1/19,0.71,0.74,4.82,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2020/12/20,0.627,0.663,7.08,positive,Above_Average,OutP
+SCHW,Charles Schwab Corp,2020/11/20,0.543,0.587,9.34,positive,Above_Average,OutP
+SCHW,Charles Schwab Corp,2020/10/15,0.46,0.51,11.6,positive,Significantly_Above,OutP
+SCHW,Charles Schwab Corp,2020/9/15,0.483,0.52,8.557,positive,Above_Average,OutP
+SCHW,Charles Schwab Corp,2020/8/16,0.507,0.53,5.513,positive,Above_Average,OutP
+SCHW,Charles Schwab Corp,2020/7/16,0.53,0.54,2.47,positive,Pos_Average,regular
+SCHW,Charles Schwab Corp,2020/6/16,0.56,0.563,1.003,positive,Pos_Average,regular
+SCHW,Charles Schwab Corp,2020/5/17,0.59,0.587,-0.463,negative,Neg_Average,UnderP
+SCHW,Charles Schwab Corp,2020/4/15,0.62,0.61,-1.93,negative,Neg_Average,UnderP
+SCHW,Charles Schwab Corp,2020/3/16,0.627,0.613,-2.277,negative,Neg_Average,UnderP
+SCHW,Charles Schwab Corp,2020/2/15,0.633,0.617,-2.623,negative,Neg_Average,regular
+SCHW,Charles Schwab Corp,2020/1/16,0.64,0.62,-2.97,negative,Neg_Average,regular
+SCHW,Charles Schwab Corp,2019/12/17,0.64,0.647,0.973,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2019/11/17,0.64,0.673,4.917,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2019/10/15,0.64,0.7,8.86,positive,Above_Average,OutP
+SCHW,Charles Schwab Corp,2019/9/15,0.643,0.687,6.263,positive,Above_Average,OutP
+SCHW,Charles Schwab Corp,2019/8/16,0.647,0.673,3.667,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2019/7/16,0.65,0.66,1.07,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2019/6/16,0.653,0.67,2.44,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2019/5/17,0.657,0.68,3.81,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2019/4/15,0.66,0.69,5.18,positive,Above_Average,OutP
+SCHW,Charles Schwab Corp,2019/3/16,0.653,0.677,4.027,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2019/2/14,0.647,0.663,2.873,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2019/1/16,0.64,0.65,1.72,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2018/12/17,0.643,0.65,1.353,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2018/11/17,0.647,0.65,0.987,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2018/10/15,0.65,0.65,0.62,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2018/9/15,0.627,0.633,1.683,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2018/8/16,0.603,0.617,2.747,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2018/7/17,0.58,0.6,3.81,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2018/6/17,0.567,0.583,3.41,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2018/5/18,0.553,0.567,3.01,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2018/4/16,0.54,0.55,2.61,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2018/3/17,0.497,0.513,3.833,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2018/2/15,0.453,0.477,5.057,positive,Above_Average,OutP
+SCHW,Charles Schwab Corp,2018/1/17,0.41,0.44,6.28,positive,Above_Average,OutP
+SCHW,Charles Schwab Corp,2017/12/18,0.41,0.433,5.25,positive,Above_Average,OutP
+SCHW,Charles Schwab Corp,2017/11/18,0.41,0.427,4.22,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2017/10/16,0.41,0.42,3.19,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2017/9/16,0.403,0.41,2.3,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2017/8/17,0.397,0.4,1.41,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2017/7/18,0.39,0.39,0.52,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2017/6/18,0.383,0.39,2.63,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2017/5/19,0.377,0.39,4.74,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2017/4/18,0.37,0.39,6.85,positive,Above_Average,OutP
+SCHW,Charles Schwab Corp,2017/3/19,0.367,0.38,4.753,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2017/2/17,0.363,0.37,2.657,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2017/1/18,0.36,0.36,0.56,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2016/12/19,0.35,0.357,1.97,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2016/11/19,0.34,0.353,3.38,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2016/10/17,0.33,0.35,4.79,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2016/9/17,0.32,0.333,3.417,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2016/8/18,0.31,0.317,2.043,positive,Pos_Average,OutP
+SCHW,Charles Schwab Corp,2016/7/18,0.3,0.3,0.67,positive,Pos_Average,regular
+SCHW,Charles Schwab Corp,2016/6/18,0.297,0.297,0.333,positive,Pos_Average,regular
+SCHW,Charles Schwab Corp,2016/5/19,0.293,0.293,-0.003,negative,Neg_Average,UnderP
+SCHW,Charles Schwab Corp,2016/4/15,0.29,0.29,-0.34,negative,Neg_Average,UnderP
+SCHW,Charles Schwab Corp,2016/3/16,0.277,0.273,-1.813,negative,Neg_Average,UnderP
+SCHW,Charles Schwab Corp,2016/2/15,0.263,0.257,-3.287,negative,Neg_Average,regular
+SCHW,Charles Schwab Corp,2016/1/19,0.25,0.24,-4.76,negative,Neg_Average,regular
+TD,The Toronto-Dominion Bank,2021/2/25,1.49,1.83,23.07,positive,Significantly_Above,OutP
+TD,The Toronto-Dominion Bank,2021/1/26,1.417,1.753,24.073,positive,Significantly_Above,OutP
+TD,The Toronto-Dominion Bank,2020/12/27,1.343,1.677,25.077,positive,Significantly_Above,OutP
+TD,The Toronto-Dominion Bank,2020/12/3,1.27,1.6,26.08,positive,Significantly_Above,OutP
+TD,The Toronto-Dominion Bank,2020/11/3,1.243,1.483,19.01,positive,Significantly_Above,OutP
+TD,The Toronto-Dominion Bank,2020/10/4,1.217,1.367,11.94,positive,Significantly_Above,OutP
+TD,The Toronto-Dominion Bank,2020/8/27,1.19,1.25,4.87,positive,Pos_Average,regular
+TD,The Toronto-Dominion Bank,2020/7/28,1.097,1.117,1.083,positive,Pos_Average,regular
+TD,The Toronto-Dominion Bank,2020/6/28,1.003,0.983,-2.703,negative,Neg_Average,UnderP
+TD,The Toronto-Dominion Bank,2020/5/28,0.91,0.85,-6.49,negative,Below_Average,UnderP
+TD,The Toronto-Dominion Bank,2020/4/28,1.167,1.12,-4.783,negative,Neg_Average,UnderP
+TD,The Toronto-Dominion Bank,2020/3/29,1.423,1.39,-3.077,negative,Neg_Average,UnderP
+TD,The Toronto-Dominion Bank,2020/2/27,1.68,1.66,-1.37,negative,Neg_Average,UnderP
+TD,The Toronto-Dominion Bank,2020/1/28,1.697,1.637,-3.593,negative,Neg_Average,UnderP
+TD,The Toronto-Dominion Bank,2019/12/29,1.713,1.613,-5.817,negative,Below_Average,UnderP
+TD,The Toronto-Dominion Bank,2019/12/5,1.73,1.59,-8.04,negative,Below_Average,UnderP
+TD,The Toronto-Dominion Bank,2019/11/5,1.757,1.657,-5.693,negative,Below_Average,UnderP
+TD,The Toronto-Dominion Bank,2019/10/6,1.783,1.723,-3.347,negative,Neg_Average,regular
+TD,The Toronto-Dominion Bank,2019/8/29,1.81,1.79,-1,negative,Neg_Average,regular
+TD,The Toronto-Dominion Bank,2019/7/30,1.77,1.777,0.477,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2019/6/30,1.73,1.763,1.953,positive,Pos_Average,regular
+TD,The Toronto-Dominion Bank,2019/5/23,1.69,1.75,3.43,positive,Pos_Average,regular
+TD,The Toronto-Dominion Bank,2019/4/23,1.7,1.69,-0.53,negative,Neg_Average,UnderP
+TD,The Toronto-Dominion Bank,2019/3/24,1.71,1.63,-4.49,negative,Neg_Average,UnderP
+TD,The Toronto-Dominion Bank,2019/2/28,1.72,1.57,-8.45,negative,Below_Average,UnderP
+TD,The Toronto-Dominion Bank,2019/1/29,1.687,1.59,-5.343,negative,Below_Average,regular
+TD,The Toronto-Dominion Bank,2018/12/30,1.653,1.61,-2.237,negative,Neg_Average,regular
+TD,The Toronto-Dominion Bank,2018/11/29,1.62,1.63,0.87,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2018/10/30,1.623,1.64,1.213,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2018/9/30,1.627,1.65,1.557,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2018/8/30,1.63,1.66,1.9,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2018/7/31,1.59,1.647,3.813,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2018/7/1,1.55,1.633,5.727,positive,Above_Average,OutP
+TD,The Toronto-Dominion Bank,2018/5/24,1.51,1.62,7.64,positive,Above_Average,OutP
+TD,The Toronto-Dominion Bank,2018/4/24,1.5,1.6,7.013,positive,Above_Average,OutP
+TD,The Toronto-Dominion Bank,2018/3/25,1.49,1.58,6.387,positive,Above_Average,OutP
+TD,The Toronto-Dominion Bank,2018/3/1,1.48,1.56,5.76,positive,Above_Average,OutP
+TD,The Toronto-Dominion Bank,2018/1/30,1.45,1.493,3.073,positive,Pos_Average,regular
+TD,The Toronto-Dominion Bank,2017/12/31,1.42,1.427,0.387,positive,Pos_Average,regular
+TD,The Toronto-Dominion Bank,2017/11/30,1.39,1.36,-2.3,negative,Neg_Average,regular
+TD,The Toronto-Dominion Bank,2017/10/31,1.38,1.41,2.143,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2017/10/1,1.37,1.46,6.587,positive,Above_Average,OutP
+TD,The Toronto-Dominion Bank,2017/8/31,1.36,1.51,11.03,positive,Significantly_Above,OutP
+TD,The Toronto-Dominion Bank,2017/8/1,1.32,1.453,9.953,positive,Above_Average,OutP
+TD,The Toronto-Dominion Bank,2017/7/2,1.28,1.397,8.877,positive,Above_Average,OutP
+TD,The Toronto-Dominion Bank,2017/5/25,1.24,1.34,7.8,positive,Above_Average,OutP
+TD,The Toronto-Dominion Bank,2017/4/25,1.25,1.337,6.803,positive,Above_Average,OutP
+TD,The Toronto-Dominion Bank,2017/3/26,1.26,1.333,5.807,positive,Above_Average,OutP
+TD,The Toronto-Dominion Bank,2017/3/2,1.27,1.33,4.81,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2017/1/31,1.253,1.293,3.233,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2017/1/1,1.237,1.257,1.657,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2016/12/1,1.22,1.22,0.08,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2016/11/1,1.217,1.237,1.59,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2016/10/2,1.213,1.253,3.1,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2016/8/25,1.21,1.27,4.61,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2016/7/26,1.197,1.247,4.017,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2016/6/26,1.183,1.223,3.423,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2016/5/26,1.17,1.2,2.83,positive,Pos_Average,OutP
+TD,The Toronto-Dominion Bank,2016/4/26,1.177,1.193,1.58,positive,Pos_Average,regular
+TD,The Toronto-Dominion Bank,2016/3/27,1.183,1.187,0.33,positive,Pos_Average,regular
+TD,The Toronto-Dominion Bank,2016/2/25,1.19,1.18,-0.92,negative,Neg_Average,regular
+UBS,UBS Group AG,2021/1/26,0.28,0.46,64.29,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/12/27,0.273,0.493,82.16,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/11/27,0.267,0.527,100.03,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/10/20,0.26,0.56,117.9,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/9/20,0.243,0.483,97.647,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/8/21,0.227,0.407,77.393,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/7/21,0.21,0.33,57.14,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/6/21,0.27,0.363,41.99,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/5/22,0.33,0.397,26.84,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/5/5,0.39,0.43,11.69,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/4/5,0.323,0.377,21.83,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/3/6,0.257,0.323,31.97,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2020/1/21,0.19,0.27,42.11,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2019/12/22,0.21,0.283,36.073,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2019/11/22,0.23,0.297,30.037,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2019/11/20,0.25,0.31,24,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2019/10/21,0.29,0.33,16,positive,Significantly_Above,regular
+UBS,UBS Group AG,2019/9/21,0.33,0.35,8,positive,Above_Average,regular
+UBS,UBS Group AG,2019/8/20,0.37,0.37,0,None,None,NA
+UBS,UBS Group AG,2019/7/21,0.33,0.347,6.827,positive,Above_Average,OutP
+UBS,UBS Group AG,2019/6/21,0.29,0.323,13.653,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2019/4/25,0.25,0.3,20.48,positive,Significantly_Above,regular
+UBS,UBS Group AG,2019/3/26,0.243,0.263,7.243,positive,Above_Average,regular
+UBS,UBS Group AG,2019/2/24,0.237,0.227,-5.993,negative,Below_Average,UnderP
+UBS,UBS Group AG,2019/1/22,0.23,0.19,-19.23,negative,Significantly_Below,UnderP
+UBS,UBS Group AG,2018/12/23,0.26,0.243,-9.657,negative,Below_Average,regular
+UBS,UBS Group AG,2018/11/23,0.29,0.297,-0.083,negative,Neg_Average,regular
+UBS,UBS Group AG,2018/10/25,0.32,0.35,9.49,positive,Above_Average,OutP
+UBS,UBS Group AG,2018/9/25,0.337,0.357,6.87,positive,Above_Average,OutP
+UBS,UBS Group AG,2018/8/26,0.353,0.363,4.25,positive,Pos_Average,OutP
+UBS,UBS Group AG,2018/7/24,0.37,0.37,1.63,positive,Pos_Average,OutP
+UBS,UBS Group AG,2018/6/24,0.37,0.38,3.887,positive,Pos_Average,OutP
+UBS,UBS Group AG,2018/5/25,0.37,0.39,6.143,positive,Above_Average,OutP
+UBS,UBS Group AG,2018/4/23,0.37,0.4,8.4,positive,Above_Average,OutP
+UBS,UBS Group AG,2018/3/24,0.32,0.357,13.093,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2018/2/22,0.27,0.313,17.787,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2018/1/22,0.22,0.27,22.48,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2017/12/23,0.263,0.29,13.54,positive,Significantly_Above,regular
+UBS,UBS Group AG,2017/11/23,0.307,0.31,4.6,positive,Pos_Average,regular
+UBS,UBS Group AG,2017/10/27,0.35,0.33,-4.34,negative,Neg_Average,regular
+UBS,UBS Group AG,2017/9/27,0.35,0.347,-0.107,negative,Neg_Average,regular
+UBS,UBS Group AG,2017/8/28,0.35,0.363,4.127,positive,Pos_Average,OutP
+UBS,UBS Group AG,2017/7/28,0.35,0.38,8.36,positive,Above_Average,OutP
+UBS,UBS Group AG,2017/6/28,0.343,0.383,11.633,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2017/5/29,0.337,0.387,14.907,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2017/4/28,0.33,0.39,18.18,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2017/3/29,0.28,0.343,24.323,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2017/2/27,0.23,0.297,30.467,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2017/1/27,0.18,0.25,36.61,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2016/12/28,0.217,0.27,26.707,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2016/11/28,0.253,0.29,16.803,positive,Significantly_Above,OutP
+UBS,UBS Group AG,2016/10/28,0.29,0.31,6.9,positive,Above_Average,OutP
+UBS,UBS Group AG,2016/9/28,0.193,0.31,4.6,positive,Pos_Average,regular
+UBS,UBS Group AG,2016/8/29,0.097,0.31,2.3,positive,Pos_Average,regular
+UBS,UBS Group AG,2016/7/29,0,0.31,0,None,None,NA
+UBS,UBS Group AG,2016/6/29,0.097,0.297,-1.973,negative,Neg_Average,UnderP
+UBS,UBS Group AG,2016/5/30,0.193,0.283,-3.947,negative,Neg_Average,UnderP
+UBS,UBS Group AG,2016/5/3,0.29,0.27,-5.92,negative,Below_Average,UnderP
+UBS,UBS Group AG,2016/4/3,0.323,0.3,-6.273,negative,Below_Average,UnderP
+UBS,UBS Group AG,2016/3/4,0.357,0.33,-6.627,negative,Below_Average,regular
+UBS,UBS Group AG,2016/2/2,0.39,0.36,-6.98,negative,Below_Average,regular
+USB,U.S. Bancorp,2021/10/14,0,0,0,None,None,NA
+USB,U.S. Bancorp,2021/9/14,0,0,0,None,None,NA
+USB,U.S. Bancorp,2021/8/15,0,0,0,None,None,NA
+USB,U.S. Bancorp,2021/7/15,0,0,0,None,None,NA
+USB,U.S. Bancorp,2021/6/15,0.307,0,0,None,None,NA
+USB,U.S. Bancorp,2021/5/16,0.613,0,0,None,None,NA
+USB,U.S. Bancorp,2021/4/15,0.92,0,0,None,None,NA
+USB,U.S. Bancorp,2021/3/16,0.93,0.317,0.107,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2021/2/14,0.94,0.633,0.213,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2021/1/20,0.95,0.95,0.32,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2020/12/21,0.937,0.963,3.103,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2020/11/21,0.923,0.977,5.887,positive,Above_Average,OutP
+USB,U.S. Bancorp,2020/10/14,0.91,0.99,8.67,positive,Above_Average,OutP
+USB,U.S. Bancorp,2020/9/14,0.68,0.797,34.007,positive,Significantly_Above,OutP
+USB,U.S. Bancorp,2020/8/15,0.45,0.603,59.343,positive,Significantly_Above,OutP
+USB,U.S. Bancorp,2020/7/15,0.22,0.41,84.68,positive,Significantly_Above,OutP
+USB,U.S. Bancorp,2020/6/15,0.34,0.513,64.287,positive,Significantly_Above,OutP
+USB,U.S. Bancorp,2020/5/16,0.46,0.617,43.893,positive,Significantly_Above,OutP
+USB,U.S. Bancorp,2020/4/15,0.58,0.72,23.5,positive,Significantly_Above,regular
+USB,U.S. Bancorp,2020/3/16,0.747,0.78,10.01,positive,Significantly_Above,regular
+USB,U.S. Bancorp,2020/2/15,0.913,0.84,-3.48,negative,Neg_Average,UnderP
+USB,U.S. Bancorp,2020/1/15,1.08,0.9,-16.97,negative,Significantly_Below,UnderP
+USB,U.S. Bancorp,2019/12/16,1.09,0.983,-10.143,negative,Significantly_Below,regular
+USB,U.S. Bancorp,2019/11/16,1.1,1.067,-3.317,negative,Neg_Average,regular
+USB,U.S. Bancorp,2019/10/16,1.11,1.15,3.51,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2019/9/16,1.097,1.13,3.027,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2019/8/17,1.083,1.11,2.543,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2019/7/17,1.07,1.09,2.06,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2019/6/17,1.047,1.06,1.307,positive,Pos_Average,regular
+USB,U.S. Bancorp,2019/5/18,1.023,1.03,0.553,positive,Pos_Average,regular
+USB,U.S. Bancorp,2019/4/17,1,1,-0.2,negative,Neg_Average,regular
+USB,U.S. Bancorp,2019/3/18,1.02,1.023,0.277,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2019/2/16,1.04,1.047,0.753,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2019/1/16,1.06,1.07,1.23,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/12/17,1.057,1.067,1.3,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/11/17,1.053,1.063,1.37,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/10/17,1.05,1.06,1.44,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/9/17,1.033,1.047,1.49,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/8/18,1.017,1.033,1.54,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/7/18,1,1.02,1.59,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/6/18,0.983,1,1.59,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/5/19,0.967,0.98,1.59,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/4/18,0.95,0.96,1.59,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/3/19,0.923,0.933,1.52,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/2/17,0.897,0.907,1.45,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2018/1/17,0.87,0.88,1.38,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2017/12/18,0.873,0.88,0.883,positive,Pos_Average,regular
+USB,U.S. Bancorp,2017/11/18,0.877,0.88,0.387,positive,Pos_Average,regular
+USB,U.S. Bancorp,2017/10/18,0.88,0.88,-0.11,negative,Neg_Average,regular
+USB,U.S. Bancorp,2017/9/18,0.867,0.87,0.163,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2017/8/19,0.853,0.86,0.437,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2017/7/19,0.84,0.85,0.71,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2017/6/19,0.827,0.84,1.307,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2017/5/20,0.813,0.83,1.903,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2017/4/19,0.8,0.82,2.5,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2017/3/20,0.803,0.82,2.163,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2017/2/18,0.807,0.82,1.827,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2017/1/18,0.81,0.82,1.49,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2016/12/19,0.817,0.827,1.233,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2016/11/19,0.823,0.833,0.977,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2016/10/19,0.83,0.84,0.72,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2016/9/19,0.82,0.837,1.643,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2016/8/20,0.81,0.833,2.567,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2016/7/15,0.8,0.83,3.49,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2016/6/15,0.787,0.807,2.413,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2016/5/16,0.773,0.783,1.337,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2016/4/20,0.76,0.76,0.26,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2016/3/21,0.77,0.77,0.217,positive,Pos_Average,OutP
+USB,U.S. Bancorp,2016/2/20,0.78,0.78,0.173,positive,Pos_Average,regular
+USB,U.S. Bancorp,2016/1/15,0.79,0.79,0.13,positive,Pos_Average,regular
+WFC,Wells Fargo & Co,2021/10/14,0,0,0,None,None,NA
+WFC,Wells Fargo & Co,2021/9/14,0,0,0,None,None,NA
+WFC,Wells Fargo & Co,2021/8/15,0,0,0,None,None,NA
+WFC,Wells Fargo & Co,2021/7/14,0,0,0,None,None,NA
+WFC,Wells Fargo & Co,2021/6/14,0.2,0,0,None,None,NA
+WFC,Wells Fargo & Co,2021/5/15,0.4,0,0,None,None,NA
+WFC,Wells Fargo & Co,2021/4/14,0.6,0,0,None,None,NA
+WFC,Wells Fargo & Co,2021/3/15,0.6,0.213,2.34,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2021/2/13,0.6,0.427,4.68,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2021/1/15,0.6,0.64,7.02,positive,Above_Average,regular
+WFC,Wells Fargo & Co,2020/12/16,0.55,0.567,2.457,positive,Pos_Average,regular
+WFC,Wells Fargo & Co,2020/11/16,0.5,0.493,-2.107,negative,Neg_Average,UnderP
+WFC,Wells Fargo & Co,2020/10/14,0.45,0.42,-6.67,negative,Below_Average,UnderP
+WFC,Wells Fargo & Co,2020/9/14,0.233,0.06,-81.113,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2020/8/15,0.017,-0.3,-155.557,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2020/7/14,-0.2,-0.66,-230,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2020/6/14,-0.023,-0.437,-185.647,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2020/5/15,0.153,-0.213,-141.293,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2020/4/14,0.33,0.01,-96.94,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2020/3/15,0.593,0.207,-80.15,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2020/2/14,0.857,0.403,-63.36,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2020/1/14,1.12,0.6,-46.57,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2019/12/15,1.13,0.707,-37.597,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2019/11/15,1.14,0.813,-28.623,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2019/10/15,1.15,0.92,-19.65,negative,Significantly_Below,regular
+WFC,Wells Fargo & Co,2019/9/15,1.15,1.047,-8.817,negative,Below_Average,regular
+WFC,Wells Fargo & Co,2019/8/16,1.15,1.173,2.017,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2019/7/16,1.15,1.3,12.85,positive,Significantly_Above,OutP
+WFC,Wells Fargo & Co,2019/6/16,1.13,1.267,11.83,positive,Significantly_Above,OutP
+WFC,Wells Fargo & Co,2019/5/17,1.11,1.233,10.81,positive,Significantly_Above,OutP
+WFC,Wells Fargo & Co,2019/4/12,1.09,1.2,9.79,positive,Above_Average,OutP
+WFC,Wells Fargo & Co,2019/3/13,1.117,1.203,7.577,positive,Above_Average,OutP
+WFC,Wells Fargo & Co,2019/2/11,1.143,1.207,5.363,positive,Above_Average,OutP
+WFC,Wells Fargo & Co,2019/1/15,1.17,1.21,3.15,positive,Pos_Average,regular
+WFC,Wells Fargo & Co,2018/12/16,1.17,1.183,0.907,positive,Pos_Average,regular
+WFC,Wells Fargo & Co,2018/11/16,1.17,1.157,-1.337,negative,Neg_Average,UnderP
+WFC,Wells Fargo & Co,2018/10/12,1.17,1.13,-3.58,negative,Neg_Average,UnderP
+WFC,Wells Fargo & Co,2018/9/12,1.153,1.08,-6.473,negative,Below_Average,UnderP
+WFC,Wells Fargo & Co,2018/8/13,1.137,1.03,-9.367,negative,Below_Average,UnderP
+WFC,Wells Fargo & Co,2018/7/13,1.12,0.98,-12.26,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2018/6/13,1.103,1.027,-6.453,negative,Below_Average,regular
+WFC,Wells Fargo & Co,2018/5/14,1.087,1.073,-0.647,negative,Neg_Average,regular
+WFC,Wells Fargo & Co,2018/4/13,1.07,1.12,5.16,positive,Above_Average,regular
+WFC,Wells Fargo & Co,2018/3/14,1.07,1.07,0.437,positive,Pos_Average,regular
+WFC,Wells Fargo & Co,2018/2/12,1.07,1.02,-4.287,negative,Neg_Average,UnderP
+WFC,Wells Fargo & Co,2018/1/12,1.07,0.97,-9.01,negative,Below_Average,UnderP
+WFC,Wells Fargo & Co,2017/12/13,1.053,0.927,-12.023,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2017/11/13,1.037,0.883,-15.037,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2017/10/13,1.02,0.84,-18.05,negative,Significantly_Below,UnderP
+WFC,Wells Fargo & Co,2017/9/13,1.017,0.917,-10.053,negative,Significantly_Below,regular
+WFC,Wells Fargo & Co,2017/8/14,1.013,0.993,-2.057,negative,Neg_Average,regular
+WFC,Wells Fargo & Co,2017/7/14,1.01,1.07,5.94,positive,Above_Average,OutP
+WFC,Wells Fargo & Co,2017/6/14,0.997,1.047,5.133,positive,Above_Average,OutP
+WFC,Wells Fargo & Co,2017/5/15,0.983,1.023,4.327,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2017/4/13,0.97,1,3.52,positive,Pos_Average,regular
+WFC,Wells Fargo & Co,2017/3/14,0.98,0.987,1.047,positive,Pos_Average,regular
+WFC,Wells Fargo & Co,2017/2/12,0.99,0.973,-1.427,negative,Neg_Average,UnderP
+WFC,Wells Fargo & Co,2017/1/13,1,0.96,-3.9,negative,Neg_Average,regular
+WFC,Wells Fargo & Co,2016/12/14,1.003,0.983,-1.873,negative,Neg_Average,regular
+WFC,Wells Fargo & Co,2016/11/14,1.007,1.007,0.153,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2016/10/14,1.01,1.03,2.18,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2016/9/14,1.01,1.023,1.52,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2016/8/15,1.01,1.017,0.86,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2016/7/15,1.01,1.01,0.2,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2016/6/15,0.997,1.003,0.717,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2016/5/16,0.983,0.997,1.233,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2016/4/14,0.97,0.99,1.75,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2016/3/15,0.987,1.003,1.427,positive,Pos_Average,OutP
+WFC,Wells Fargo & Co,2016/2/14,1.003,1.017,1.103,positive,Pos_Average,regular
+WFC,Wells Fargo & Co,2016/1/15,1.02,1.03,0.78,positive,Pos_Average,regular
+WU,Western Union Co,2021/10/27,0,0,0,None,None,NA
+WU,Western Union Co,2021/9/27,0,0,0,None,None,NA
+WU,Western Union Co,2021/8/28,0,0,0,None,None,NA
+WU,Western Union Co,2021/8/2,0,0,0,None,None,NA
+WU,Western Union Co,2021/7/3,0.153,0,0,None,None,NA
+WU,Western Union Co,2021/6/3,0.307,0,0,None,None,NA
+WU,Western Union Co,2021/5/3,0.46,0,0,None,None,NA
+WU,Western Union Co,2021/4/3,0.447,0.15,2.467,positive,Pos_Average,OutP
+WU,Western Union Co,2021/3/4,0.433,0.3,4.933,positive,Pos_Average,OutP
+WU,Western Union Co,2021/2/10,0.42,0.45,7.4,positive,Above_Average,OutP
+WU,Western Union Co,2021/1/11,0.433,0.49,12.637,positive,Significantly_Above,OutP
+WU,Western Union Co,2020/12/12,0.447,0.53,17.873,positive,Significantly_Above,OutP
+WU,Western Union Co,2020/10/29,0.46,0.57,23.11,positive,Significantly_Above,OutP
+WU,Western Union Co,2020/9/29,0.423,0.517,21.46,positive,Significantly_Above,OutP
+WU,Western Union Co,2020/8/30,0.387,0.463,19.81,positive,Significantly_Above,OutP
+WU,Western Union Co,2020/8/4,0.35,0.41,18.16,positive,Significantly_Above,OutP
+WU,Western Union Co,2020/7/5,0.37,0.42,14.373,positive,Significantly_Above,OutP
+WU,Western Union Co,2020/6/5,0.39,0.43,10.587,positive,Significantly_Above,OutP
+WU,Western Union Co,2020/5/5,0.41,0.44,6.8,positive,Above_Average,regular
+WU,Western Union Co,2020/4/5,0.417,0.42,0.863,positive,Pos_Average,regular
+WU,Western Union Co,2020/3/6,0.423,0.4,-5.073,negative,Below_Average,UnderP
+WU,Western Union Co,2020/2/11,0.43,0.38,-11.01,negative,Significantly_Below,regular
+WU,Western Union Co,2020/1/12,0.44,0.417,-5.243,negative,Below_Average,regular
+WU,Western Union Co,2019/12/13,0.45,0.453,0.523,positive,Pos_Average,regular
+WU,Western Union Co,2019/10/31,0.46,0.49,6.29,positive,Above_Average,regular
+WU,Western Union Co,2019/10/1,0.507,0.477,-4.263,negative,Neg_Average,UnderP
+WU,Western Union Co,2019/9/1,0.553,0.463,-14.817,negative,Significantly_Below,UnderP
+WU,Western Union Co,2019/8/1,0.6,0.45,-25.37,negative,Significantly_Below,UnderP
+WU,Western Union Co,2019/7/2,0.543,0.437,-18.24,negative,Significantly_Below,UnderP
+WU,Western Union Co,2019/6/2,0.487,0.423,-11.11,negative,Significantly_Below,UnderP
+WU,Western Union Co,2019/5/7,0.43,0.41,-3.98,negative,Neg_Average,UnderP
+WU,Western Union Co,2019/4/7,0.45,0.437,-2.79,negative,Neg_Average,UnderP
+WU,Western Union Co,2019/3/8,0.47,0.463,-1.6,negative,Neg_Average,regular
+WU,Western Union Co,2019/2/7,0.49,0.49,-0.41,negative,Neg_Average,regular
+WU,Western Union Co,2019/1/8,0.487,0.5,2.657,positive,Pos_Average,OutP
+WU,Western Union Co,2018/12/9,0.483,0.51,5.723,positive,Above_Average,OutP
+WU,Western Union Co,2018/11/1,0.48,0.52,8.79,positive,Above_Average,OutP
+WU,Western Union Co,2018/10/2,0.477,0.5,5.15,positive,Above_Average,regular
+WU,Western Union Co,2018/9/2,0.473,0.48,1.51,positive,Pos_Average,regular
+WU,Western Union Co,2018/8/2,0.47,0.46,-2.13,negative,Neg_Average,regular
+WU,Western Union Co,2018/7/3,0.453,0.457,0.623,positive,Pos_Average,OutP
+WU,Western Union Co,2018/6/3,0.437,0.453,3.377,positive,Pos_Average,OutP
+WU,Western Union Co,2018/5/1,0.42,0.45,6.13,positive,Above_Average,regular
+WU,Western Union Co,2018/4/1,0.43,0.437,1.123,positive,Pos_Average,regular
+WU,Western Union Co,2018/3/2,0.44,0.423,-3.883,negative,Neg_Average,regular
+WU,Western Union Co,2018/2/13,0.45,0.41,-8.89,negative,Below_Average,regular
+WU,Western Union Co,2018/1/14,0.45,0.45,0.087,positive,Pos_Average,OutP
+WU,Western Union Co,2017/12/15,0.45,0.49,9.063,positive,Above_Average,OutP
+WU,Western Union Co,2017/11/2,0.45,0.53,18.04,positive,Significantly_Above,OutP
+WU,Western Union Co,2017/10/3,0.44,0.52,18.853,positive,Significantly_Above,OutP
+WU,Western Union Co,2017/9/3,0.43,0.51,19.667,positive,Significantly_Above,OutP
+WU,Western Union Co,2017/8/3,0.42,0.5,20.48,positive,Significantly_Above,regular
+WU,Western Union Co,2017/7/4,0.41,0.45,9.93,positive,Above_Average,regular
+WU,Western Union Co,2017/6/4,0.4,0.4,-0.62,negative,Neg_Average,UnderP
+WU,Western Union Co,2017/5/2,0.39,0.35,-11.17,negative,Significantly_Below,regular
+WU,Western Union Co,2017/4/2,0.403,0.39,-4.09,negative,Neg_Average,regular
+WU,Western Union Co,2017/3/3,0.417,0.43,2.99,positive,Pos_Average,OutP
+WU,Western Union Co,2017/2/9,0.43,0.47,10.07,positive,Significantly_Above,OutP
+WU,Western Union Co,2017/1/10,0.433,0.46,6.487,positive,Above_Average,regular
+WU,Western Union Co,2016/12/11,0.437,0.45,2.903,positive,Pos_Average,regular
+WU,Western Union Co,2016/11/1,0.44,0.44,-0.68,negative,Neg_Average,regular
+WU,Western Union Co,2016/10/2,0.427,0.433,1.04,positive,Pos_Average,OutP
+WU,Western Union Co,2016/9/2,0.413,0.427,2.76,positive,Pos_Average,OutP
+WU,Western Union Co,2016/8/3,0.4,0.42,4.48,positive,Pos_Average,regular
+WU,Western Union Co,2016/7/4,0.393,0.403,2.197,positive,Pos_Average,regular
+WU,Western Union Co,2016/6/4,0.387,0.387,-0.087,negative,Neg_Average,UnderP
+WU,Western Union Co,2016/5/3,0.38,0.37,-2.37,negative,Neg_Average,UnderP
+WU,Western Union Co,2016/4/3,0.393,0.387,-1.34,negative,Neg_Average,regular
+WU,Western Union Co,2016/3/4,0.407,0.403,-0.31,negative,Neg_Average,regular
+WU,Western Union Co,2016/2/9,0.42,0.42,0.72,positive,Pos_Average,regular

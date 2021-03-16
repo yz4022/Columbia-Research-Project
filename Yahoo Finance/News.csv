@@ -1,0 +1,109 @@
+RecID,Source Link,Organization Name,Event Date,ReferenceDate,Event_Type
+JPM_11_24_2020,https://www.occ.gov/static/enforcement-actions/ea2020-067.pdf,JPMorgan,2020/11/24,2021/3/7,Consent_Order
+Cap_08_05_2020,https://www.occ.gov/static/enforcement-actions/ea2020-036.pdf,Capital One,2020/8/5,2021/3/7,Money_Laudering
+Cap_10_23_2018,https://www.occ.gov/static/enforcement-actions/ea2018-080.pdf,Capital One,2018/10/23,2021/3/7,Money_Laudering
+Wel_04_20_2018,https://www.occ.gov/static/enforcement-actions/ea2018-026.pdf,Wells Fargo,2018/4/20,2021/3/7,Unfair_Lending
+Wel_05_24_2016,https://www.occ.gov/static/enforcement-actions/ea2016-055.pdf,Wells Fargo,2016/5/24,2021/3/7,Consent_Order
+Wel_09_06_2016,https://www.occ.gov/static/enforcement-actions/ea2016-079.pdf,Wells Fargo,2016/9/6,2021/3/7,Consent_Order
+Wel_09_29_2016,https://www.occ.gov/static/enforcement-actions/ea2016-082.pdf,Wells Fargo,2016/9/29,2021/3/7,Other_Violation
+Wel_01_08_2020,https://www.occ.gov/static/enforcement-actions/ea2020-003.pdf,Wells Fargo,2020/1/8,2021/3/7,Biz_Misconduct
+Wel_09_21_2020,https://www.occ.gov/static/enforcement-actions/ea2020-051.pdf,Wells Fargo,2020/9/21,2021/3/7,Biz_Misconduct
+Wel_09_21_2020,https://www.occ.gov/static/enforcement-actions/ea2020-050.pdf,Wells Fargo,2020/9/21,2021/3/7,Consent_Order
+Wel_09_21_2020,https://www.occ.gov/static/enforcement-actions/ea2020-049.pdf,Wells Fargo,2020/9/21,2021/3/7,Biz_Misconduct
+USA_11_11_2020,https://www.occ.gov/static/enforcement-actions/ea2020-074.pdf,USAA,2020/11/11,2021/3/7,Other_Violation
+USA_10_14_2020,https://www.occ.gov/static/enforcement-actions/ea2020-059.pdf,USAA,2020/10/14,2021/3/7,Biz_Misconduct
+HSB_01_06_2017,https://www.occ.gov/static/enforcement-actions/ea2017-002.pdf,HSBC,2017/1/6,2021/3/7,Consent_Order
+HSB_04_12_2016,https://www.occ.gov/static/enforcement-actions/ea2016-046.pdf,HSBC,2016/4/12,2021/3/7,Data_Privacy_Breach
+PNC_05_01_2018,https://www.occ.gov/static/enforcement-actions/ea2018-031.pdf,PNC,2018/5/1,2021/3/7,Biz_Misconduct
+PNC_05_01_2018,https://www.occ.gov/static/enforcement-actions/ea2018-030.pdf,PNC,2018/5/1,2021/3/7,Other_Violation
+Uni_07_29_2019,https://www.occ.gov/static/enforcement-actions/ea2019-036.pdf,Union Bank,2019/7/29,2021/3/7,Other_Violation
+UBS_03_24_2017,https://www.occ.gov/static/enforcement-actions/ea2017-030.pdf,UBS,2017/3/24,2021/3/7,Money_Laudering
+UBS_05_31_2018,https://www.occ.gov/static/enforcement-actions/ea2018-044.pdf,UBS,2018/5/31,2021/3/7,Money_Laudering
+UBS_06_05_2017,https://www.occ.gov/static/enforcement-actions/ea2017-042.pdf,UBS,2017/6/5,2021/3/7,Consent_Order
+US _02_15_2018,https://www.occ.gov/static/enforcement-actions/ea2018-010.pdf,US National Bank Association,2018/2/15,2021/3/7,Money_Laudering
+US _08_16_2017,https://www.occ.gov/static/enforcement-actions/ea2017-065.pdf,US National Bank Association,2017/8/16,2021/3/7,Other_Violation
+US _04_25_2017,https://www.occ.gov/static/enforcement-actions/ea2017-033.pdf,US National Bank Association,2017/4/25,2021/3/7,Consent_Order
+Cap_01_15_2021,https://www.fincen.gov/news/news-releases/fincen-announces-390000000-enforcement-action-against-capital-one-national,Capital One,2021/1/15,2021/3/7,Money_Laudering
+USB_12_17_2018,https://www.fincen.gov/sites/default/files/enforcement_action/2020-05-21/UBS%20Assessment%2012.17.2018%20FINAL_508%20Revised_0.pdf,UBS,2018/12/17,2021/3/7,Money_Laudering
+Art_05_03_2018,https://www.fincen.gov/news/enforcement-actions/matter-artichoke-joes-california-corporation-dba-artichoke-joes-casino,Artichoke Joe's Casino,2018/5/3,2021/3/7,Money_Laudering
+Art_11_17_2017,https://www.fincen.gov/news/enforcement-actions/matter-artichoke-joes-casino-updated-see-2018-02,Artichoke Joe's Casino,2017/11/7,2021/3/7,Money_Laudering
+Lon_11_01_2017,https://www.fincen.gov/news/enforcement-actions/matter-lone-star-national-bank,Lone Star National Bank,2017/11/1,2021/3/7,Consent_Order
+Wes_01_19_2017,https://www.fincen.gov/news/news-releases/fincen-fines-western-union-financial-services-inc-past-violations-anti-money,Western Union Financial Services,2017/1/19,2021/3/7,Money_Laudering
+Ban_2017_10_24,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20180046,Bank of New York Mellon,2017/10/24,2021/3/7,Premerger_notification
+BNP_2017_11_17,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20180228,BNP Paribas,2017/11/17,2021/3/7,Premerger_notification
+Cha_2020_06_04,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200514,Charles Schwab,2020/6/4,2021/3/7,Premerger_notification
+Cha_2019_09_10,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191924,Charles Schwab,2019/9/10,2021/3/7,Premerger_notification
+Deu_2016_07_13,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20161396,Deutche Bank,2016/7/13,2021/3/7,Premerger_notification
+Deu_2016_02_/1,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20160577,Deutche Bank,2016/2/1,2021/3/7,Premerger_notification
+Deu_2016_07_13,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20161396,Deutche Bank,2016/7/13,2021/3/7,Premerger_notification
+Deu_2016_02_01,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20160577,Deutche Bank,2016/2/1,2021/3/7,Premerger_notification
+Gol_2020_06_22,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20201132,Goldman Sachs,2020/6/22,2021/3/7,Premerger_notification
+Gol_2019_12_17,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200384,Goldman Sachs,2019/12/17,2021/3/7,Premerger_notification
+Gol_2019_12_/2,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200252,Goldman Sachs,2019/12/2,2021/3/7,Premerger_notification
+Gol_2019_03_22,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190987,Goldman Sachs,2019/3/22,2021/3/7,Premerger_notification
+Gol_2019_06_14,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191478,Goldman Sachs,2019/6/14,2021/3/7,Premerger_notification
+Gol_2019_05_08,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191216,Goldman Sachs,2019/5/8,2021/3/7,Premerger_notification
+Gol_2018_07_30,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20181673,Goldman Sachs,2018/7/30,2021/3/7,Premerger_notification
+Gol_2018_06_04,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20181341,Goldman Sachs,2018/6/4,2021/3/7,Premerger_notification
+Gol_2018_07_26,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20181637,Goldman Sachs,2018/7/26,2021/3/7,Premerger_notification
+Gol_2017_03_24,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20170892,Goldman Sachs,2017/3/24,2021/3/7,Premerger_notification
+Gol_2017_01_03,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20170477,Goldman Sachs,2017/1/3,2021/3/7,Premerger_notification
+Gol_2016_09_30,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20161807,Goldman Sachs,2016/9/30,2021/3/7,Premerger_notification
+Gol_2016_08_12,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20161559,Goldman Sachs,2016/8/12,2021/3/7,Premerger_notification
+Gol_2016_06_10,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20161248,Goldman Sachs,2016/6/10,2021/3/7,Premerger_notification
+HSB_2017_12_08,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20180229,HSBC,2017/12/8,2021/3/7,Premerger_notification
+JPM_2019_06_07,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191410,JPMorgan,2019/6/7,2021/3/7,Premerger_notification
+JPM_2016_12_09,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20170356,JPMorgan,2016/12/9,2021/3/7,Premerger_notification
+PNC_2019_12_13,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200337,PNC,2019/12/13,2021/3/7,Premerger_notification
+PNC_2018_09_11,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20181976,PNC,2018/9/11,2021/3/7,Premerger_notification
+PNC_2017_09_12,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20171916,PNC,2017/9/12,2021/3/7,Premerger_notification
+PNC_2019_12_13,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200337,PNC,2019/12/13,2021/3/7,Premerger_notification
+PNC_2018_09_11,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20181976,PNC,2018/9/11,2021/3/7,Premerger_notification
+PNC_2017_09_12,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20171916,PNC,2017/9/12,2021/3/7,Premerger_notification
+U.S_2020_04_15,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200961,U.S. Bancorp,2020/4/15,2021/3/7,Premerger_notification
+U.S_2018_12_14,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190433,U.S. Bancorp,2018/12/14,2021/3/7,Premerger_notification
+Wel_2017_08_30,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20171737,Wells Fargo,2017/8/30,2021/3/7,Premerger_notification
+USA_2018_12_03,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190361,USAA,2018/12/3,2021/3/7,Premerger_notification
+USA_2019_09_10,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191924,USAA,2019/9/10,2021/3/7,Premerger_notification
+Wel_2020_03_06,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200800,Wells Fargo,2020/3/6,2021/3/7,Premerger_notification
+Wel_2019_10_29,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200099,Wells Fargo,2019/10/29,2021/3/7,Premerger_notification
+Wel_2019_11_20,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200195,Wells Fargo,2019/11/20,2021/3/7,Premerger_notification
+Wel_2019_05_17,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191276,Wells Fargo,2019/5/17,2021/3/7,Premerger_notification
+Wel_2019_06_07,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191426,Wells Fargo,2019/6/7,2021/3/7,Premerger_notification
+Wel_2019_07_08,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191557,Wells Fargo,2019/7/8,2021/3/7,Premerger_notification
+Wel_2019_06_07,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191406,Wells Fargo,2019/6/7,2021/3/7,Premerger_notification
+Wel_2018_06_22,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20181494,Wells Fargo,2018/6/22,2021/3/7,Premerger_notification
+Wel_2018_03_26,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20180939,Wells Fargo,2018/3/26,2021/3/7,Premerger_notification
+Wel_2017_12_22,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20180463,Wells Fargo,2017/12/22,2021/3/7,Premerger_notification
+Wel_2017_08_30,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20171737,Wells Fargo,2017/8/30,2021/3/7,Premerger_notification
+Wel_2017_08_21,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20171760,Wells Fargo,2017/8/21,2021/3/7,Premerger_notification
+Wel_2017_07_25,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20171585,Wells Fargo,2017/7/25,2021/3/7,Premerger_notification
+Wel_2016_11_15,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20170183,Wells Fargo,2016/11/15,2021/3/7,Premerger_notification
+Wel_2016_09_19,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20161686,Wells Fargo,2016/9/19,2021/3/7,Premerger_notification
+Wel_2020_03_06,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200800,Wells Fargo,2020/3/6,2021/3/7,Premerger_notification
+Wel_2019_10_29,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200099,Wells Fargo,2019/10/29,2021/3/7,Premerger_notification
+Wel_2019_11_20,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20200195,Wells Fargo,2019/11/20,2021/3/7,Premerger_notification
+Wel_2019_05_17,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191276,Wells Fargo,2019/5/17,2021/3/7,Premerger_notification
+Wel_2019_06_/7,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191426,Wells Fargo,2019/6/7,2021/3/7,Premerger_notification
+Wel_2019_07_08,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191557,Wells Fargo,2019/7/8,2021/3/7,Premerger_notification
+Wel_2019_06_07,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20191406,Wells Fargo,2019/6/7,2021/3/7,Premerger_notification
+Wel_2018_06_22,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20181494,Wells Fargo,2018/6/22,2021/3/7,Premerger_notification
+Wel_2018_03_26,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20180939,Wells Fargo,2018/3/26,2021/3/7,Premerger_notification
+Wel_2017_12_22,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20180463,Wells Fargo,2017/12/22,2021/3/7,Premerger_notification
+Wel_2017_08_30,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20171737,Wells Fargo,2017/8/30,2021/3/7,Premerger_notification
+Wel_2017_08_21,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20171760,Wells Fargo,2017/8/21,2021/3/7,Premerger_notification
+Wel_2017_07_25,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20171585,Wells Fargo,2017/7/25,2021/3/7,Premerger_notification
+Wel_2016_11_15,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20170183,Wells Fargo,2016/11/15,2021/3/7,Premerger_notification
+Wel_2016_09_19,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20161686,Wells Fargo,2016/9/19,2021/3/7,Premerger_notification
+Wel_2016_03_14,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20160824,Wells Fargo,2016/3/14,2021/3/7,Premerger_notification
+Wel_2016_03_25,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20160873,Wells Fargo,2016/3/25,2021/3/7,Premerger_notification
+Wes_2019_03_22,https://www.ftc.gov/enforcement/premerger-notification-program/early-termination-notices/20190993,Western Union Financial Services,2019/3/22,2021/3/7,Premerger_notification
+U.S_2018_09_27,https://www.ftc.gov/news-events/press-releases/2018/09/ftc-doj-return-record-505-million-consumers-harmed-massive-payday,U.S. Bancorp,2018/9/27,2021/3/7,Money_Laudering
+Wes_2018_05_30,https://www.ftc.gov/news-events/blogs/business-blog/2018/05/western-union-refund-application-deadline-may-31st,Western Union Financial Services,2018/5/30,2021/3/7,Money_Laudering
+Wes_2020_09_23,https://www.ftc.gov/news-events/press-releases/2020/09/second-round-refunds-totaling-147-million-sent-consumers-result,Western Union Financial Services,2020/9/23,2021/3/7,Money_Laudering
+Wes_2020_03_10,https://www.ftc.gov/news-events/press-releases/2020/03/first-round-refunds-totaling-153-million-sent-consumers-result,Western Union Financial Services,2020/3/10,2021/3/7,Money_Laudering
+Wes_2017_02_03,https://www.ftc.gov/case-timeline-item/western-union-co-timeline-item-2017-02-03-000000,Western Union Financial Services,2017/2/3,2021/3/7,Money_Laudering
+Wes_2017_01_31,https://www.ftc.gov/case-timeline-item/western-union-co-timeline-item-2017-01-31-000000,Western Union Financial Services,2017/1/31,2021/3/7,Money_Laudering
+Wes_2017_01_19,https://www.ftc.gov/news-events/blogs/business-blog/2017/01/586-million-western-union-settlement-be-careful-about,Western Union Financial Services,2017/1/19,2021/3/7,Money_Laudering
+Wes_2017_11_13,https://www.ftc.gov/case-timeline-item/western-union-company-timeline-item-2017-11-13-000000,Western Union Financial Services,2017/11/13,2021/3/7,Money_Laudering
+BNP_2017_07_17,https://www.federalreserve.gov/newsevents/pressreleases/files/enf20170717a1.pdf,BNP Paribas,2017/7/17,2021/3/7,Biz_Misconduct

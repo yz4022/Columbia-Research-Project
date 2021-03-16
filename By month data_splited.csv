@@ -1,0 +1,1313 @@
+Symbol,Company,Year,Month,Pos_Ave,Above_Ave,Sig_Above,Neg_Ave,Below_Ave,Sig_Below,Regular,OutP,UnderP,Biz_Misconduct,Consent_Order,Data_Privacy_Breach,Money_Laudering,Unfair_Lending,Other_Violation,Premerger_notification
+BAC,Bank of America Corp,2021,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2021,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2021,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,6,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2020,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2019,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2018,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2017,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BAC,Bank of America Corp,2016,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2021,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2021,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2021,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2020,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2019,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2018,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2017,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2017,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2017,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+BK,Bank of New York Mellon Corp,2017,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2017,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2017,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2017,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2017,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2017,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2017,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2017,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2017,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2016,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2016,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2016,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2016,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2016,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2016,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2016,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2016,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2016,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2016,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+BK,Bank of New York Mellon Corp,2016,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2021,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2021,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2021,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,12,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,11,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,10,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,6,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,5,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2020,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2019,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2018,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2017,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+CFG,Citizens Financial Group Inc,2016,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2021,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2021,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2021,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+COF,Capital One Financial Corp,2020,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2020,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2020,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2020,9,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2020,8,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0
+COF,Capital One Financial Corp,2020,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2020,6,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2020,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2020,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2020,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2020,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2020,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,12,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,11,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,10,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,9,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,5,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,4,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2019,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2018,12,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2018,11,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2018,10,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+COF,Capital One Financial Corp,2018,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2018,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2018,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2018,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2018,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2018,4,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2018,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2018,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2018,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,11,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,10,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,8,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,7,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,6,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2017,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,12,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,11,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,10,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,9,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,8,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,7,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,6,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,5,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,4,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+COF,Capital One Financial Corp,2016,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2021,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2021,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2020,12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2020,10,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2020,9,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2020,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2020,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2020,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2020,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2020,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2020,3,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2020,2,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2020,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,10,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,9,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,6,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2019,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,10,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,9,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,8,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,5,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,4,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2018,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,12,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,10,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,9,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,8,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,6,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,5,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2017,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2016,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2016,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2016,9,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2016,8,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2016,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+DB,Deutsche Bank Aktiengesellschaft,2016,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2016,5,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2016,4,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2016,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+DB,Deutsche Bank Aktiengesellschaft,2016,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1
+DB,Deutsche Bank Aktiengesellschaft,2016,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2021,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2021,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2021,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2020,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2020,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2020,10,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2020,9,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2020,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2020,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2020,6,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+GS,Goldman Sachs Group Inc,2020,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2020,4,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2020,3,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2020,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2020,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2019,12,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2
+GS,Goldman Sachs Group Inc,2019,11,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2019,10,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2019,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2019,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2019,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2019,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+GS,Goldman Sachs Group Inc,2019,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+GS,Goldman Sachs Group Inc,2019,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2019,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+GS,Goldman Sachs Group Inc,2019,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2019,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2018,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2018,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2018,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2018,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2018,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2018,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2
+GS,Goldman Sachs Group Inc,2018,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+GS,Goldman Sachs Group Inc,2018,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2018,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2018,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2018,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2018,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2017,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2017,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2017,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2017,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2017,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2017,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2017,6,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2017,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2017,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2017,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+GS,Goldman Sachs Group Inc,2017,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2017,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+GS,Goldman Sachs Group Inc,2016,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2016,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2016,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2016,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+GS,Goldman Sachs Group Inc,2016,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+GS,Goldman Sachs Group Inc,2016,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2016,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+GS,Goldman Sachs Group Inc,2016,5,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2016,4,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2016,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2016,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+GS,Goldman Sachs Group Inc,2016,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2021,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2021,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2021,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,11,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,7,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,3,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2020,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2019,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2019,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2019,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2019,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2019,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2019,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2019,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+JPM,JPMorgan Chase & Co,2019,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2019,4,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2019,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2019,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2019,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,12,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,11,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2018,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2017,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2016,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1
+JPM,JPMorgan Chase & Co,2016,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2016,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2016,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2016,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2016,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2016,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2016,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2016,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2016,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2016,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+JPM,JPMorgan Chase & Co,2016,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2021,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2021,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2021,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2020,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2019,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+PNC,PNC Financial Services Group Inc,2019,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2019,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2019,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2019,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2019,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2019,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2019,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2019,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2019,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2019,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2019,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2018,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2018,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2018,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2018,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+PNC,PNC Financial Services Group Inc,2018,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2018,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2018,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2018,5,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+PNC,PNC Financial Services Group Inc,2018,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2018,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2018,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2018,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2017,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2017,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2017,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2017,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+PNC,PNC Financial Services Group Inc,2017,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2017,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2017,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2017,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2017,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2017,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2017,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2017,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2016,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2016,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2016,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2016,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2016,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2016,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2016,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2016,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+PNC,PNC Financial Services Group Inc,2016,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2021,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2021,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2021,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2020,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2020,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2020,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2020,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2020,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2020,7,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2020,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+SCHW,Charles Schwab Corp,2020,5,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2020,4,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2020,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2020,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2020,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2019,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2019,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2019,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2019,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+SCHW,Charles Schwab Corp,2019,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2019,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2019,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2019,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2019,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2019,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2019,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2019,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2018,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2017,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,7,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,5,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,4,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+SCHW,Charles Schwab Corp,2016,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2021,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2021,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,8,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,7,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,6,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,5,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,4,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2020,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,12,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,12,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,11,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,10,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,8,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,4,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,3,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2019,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,12,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2018,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,12,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,11,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,8,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,5,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2017,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2016,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2016,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2016,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2016,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2016,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2016,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2016,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2016,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2016,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+TD,The Toronto-Dominion Bank,2016,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2021,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2020,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,10,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,9,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,4,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,3,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,2,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+UBS,UBS Group AG,2019,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+UBS,UBS Group AG,2018,12,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+UBS,UBS Group AG,2018,11,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2018,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2018,9,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2018,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2018,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2018,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2018,5,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+UBS,UBS Group AG,2018,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2018,3,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2018,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2018,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2017,12,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2017,11,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2017,10,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2017,9,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2017,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2017,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2017,6,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0
+UBS,UBS Group AG,2017,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2017,4,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2017,3,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+UBS,UBS Group AG,2017,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2017,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,9,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,8,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,6,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,5,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,5,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,4,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+UBS,UBS Group AG,2016,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2021,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2021,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2021,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2020,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2020,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2020,10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2020,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2020,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2020,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2020,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2020,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2020,4,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1
+USB,U.S. Bancorp,2020,3,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2020,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2020,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,12,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,11,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2019,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2018,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+USB,U.S. Bancorp,2018,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2018,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2018,9,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+USB,U.S. Bancorp,2018,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2018,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2018,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2018,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2018,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2018,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2018,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2018,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,12,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,11,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,10,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2017,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+USB,U.S. Bancorp,2016,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2021,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2021,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2021,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2020,12,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2020,11,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2020,10,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2020,9,0,0,0,0,0,1,0,0,1,2,1,0,0,0,0,0
+WFC,Wells Fargo & Co,2020,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2020,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2020,6,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2020,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2020,4,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2020,3,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+WFC,Wells Fargo & Co,2020,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2020,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2019,12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2019,11,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+WFC,Wells Fargo & Co,2019,10,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2
+WFC,Wells Fargo & Co,2019,9,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2019,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2019,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2
+WFC,Wells Fargo & Co,2019,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,4
+WFC,Wells Fargo & Co,2019,5,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2
+WFC,Wells Fargo & Co,2019,4,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2019,3,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2019,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2019,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2018,12,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2018,11,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2018,10,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2018,9,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2018,8,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2018,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2018,6,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+WFC,Wells Fargo & Co,2018,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2018,4,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+WFC,Wells Fargo & Co,2018,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+WFC,Wells Fargo & Co,2018,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2018,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2017,12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,2
+WFC,Wells Fargo & Co,2017,11,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2017,10,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2017,9,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2017,8,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,5
+WFC,Wells Fargo & Co,2017,7,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+WFC,Wells Fargo & Co,2017,6,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2017,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2017,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2017,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2017,2,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2017,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2016,12,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2016,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+WFC,Wells Fargo & Co,2016,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2016,9,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,2
+WFC,Wells Fargo & Co,2016,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2016,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2016,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2016,5,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+WFC,Wells Fargo & Co,2016,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2016,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2
+WFC,Wells Fargo & Co,2016,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WFC,Wells Fargo & Co,2016,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2021,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2021,2,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2021,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2020,12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2020,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2020,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2020,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2020,8,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2020,7,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2020,6,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2020,5,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2020,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2020,3,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+WU,Western Union Co,2020,2,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2020,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2019,12,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2019,10,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2019,10,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+WU,Western Union Co,2019,9,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WU,Western Union Co,2019,8,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WU,Western Union Co,2019,7,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WU,Western Union Co,2019,6,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+WU,Western Union Co,2019,5,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+WU,Western Union Co,2019,4,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+WU,Western Union Co,2019,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+WU,Western Union Co,2019,2,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2019,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,10,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,9,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,8,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,5,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2018,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2017,12,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2017,11,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2017,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2017,9,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2017,8,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2017,7,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2017,6,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+WU,Western Union Co,2017,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2017,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2017,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2017,2,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2017,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2016,12,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2016,11,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2016,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2016,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+WU,Western Union Co,2016,8,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2016,7,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2016,6,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+WU,Western Union Co,2016,5,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+WU,Western Union Co,2016,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2016,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+WU,Western Union Co,2016,2,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2021,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2021,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2021,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2020,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2019,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2018,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2018,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2018,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2018,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2018,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2018,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2018,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2018,5,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+AJC,Artichoke Joe's Casino,2018,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2018,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2018,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2018,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2017,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2017,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+AJC,Artichoke Joe's Casino,2017,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2017,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2017,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2017,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2017,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2017,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2017,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2017,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2017,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2017,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJC,Artichoke Joe's Casino,2016,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2021,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2021,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2021,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2020,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2019,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2018,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2017,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2017,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+BNP,BNP Paribas,2017,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2017,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2017,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2017,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+BNP,BNP Paribas,2017,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2017,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2017,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2017,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2017,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2017,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BNP,BNP Paribas,2016,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2021,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2021,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2021,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2020,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2019,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2018,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2017,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2017,11,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+LSN,Lone Star National Bank,2017,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2017,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2017,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2017,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2017,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2017,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2017,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2017,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2017,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2017,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LSN,Lone Star National Bank,2016,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2021,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2021,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2021,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2020,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2019,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2019,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2019,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2019,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2019,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2019,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+UB,Union Bank,2019,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2019,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2019,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2019,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2019,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2019,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2018,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2017,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UB,Union Bank,2016,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2021,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2021,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2021,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2020,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2019,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2018,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2018,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2018,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2018,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2018,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2018,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2018,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2018,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2018,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2018,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2018,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+UNBA,US National Bank Association,2018,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2017,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2017,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2017,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2017,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2017,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+UNBA,US National Bank Association,2017,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2017,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2017,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2017,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+UNBA,US National Bank Association,2017,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2017,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2017,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UNBA,US National Bank Association,2016,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2021,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2021,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2021,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2020,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2020,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+USAA,USAA,2020,10,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+USAA,USAA,2020,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2020,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2020,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2020,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2020,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2020,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2020,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2020,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2020,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2019,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2019,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2019,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2019,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+USAA,USAA,2019,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2019,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2019,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2019,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2019,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2019,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2019,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2019,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2018,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+USAA,USAA,2018,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2018,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2018,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2018,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2018,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2018,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2018,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2018,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2018,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2018,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2018,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2017,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+USAA,USAA,2016,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2021,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2021,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2021,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2020,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2019,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2018,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2017,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+HSBC,HSBC,2017,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2017,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2017,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2017,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2017,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2017,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2017,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2017,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2017,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2017,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2017,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+HSBC,HSBC,2016,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2016,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2016,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2016,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2016,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2016,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2016,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2016,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2016,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+HSBC,HSBC,2016,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2016,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HSBC,HSBC,2016,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
